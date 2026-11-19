@@ -1,0 +1,740 @@
+{
+  "slug": "il-chicago",
+  "city": "Chicago",
+  "citySlug": "chicago",
+  "state": "IL",
+  "stateName": "Illinois",
+  "focus": "City of Chicago: North Side, the Loop edges, and near South Side neighborhoods",
+  "lastUpdated": "2026-11-18",
+  "intro": "These Chicago listings were checked on operator-owned facility pages on November 18, 2026, and cover ten Public Storage and four CubeSmart locations inside the city limits, from Uptown and Lakeview down to the South Loop, Bridgeport, and McKinley Park. We copied published access hours and office hours separately, and we only flag climate control, month-to-month terms, or deliveries when the facility’s own page says so. None of these facilities published around-the-clock access hours: every Public Storage page here shows a “24/7 Access Available” badge, but its access-hours table is 6:00 AM–10:00 PM daily, and the CubeSmart pages list 6:00 AM–10:00 PM daily access. This is a starting sample, not a citywide inventory; suburbs are not included yet, and we do not cache live unit prices or vacancy.",
+  "listings": [
+    {
+      "name": "Public Storage — 4072 N Broadway Street",
+      "area": "Lakeview (Broadway near Irving Park Rd)",
+      "address": "4072 N Broadway Street, Chicago, IL 60613",
+      "phone": "872-233-8018",
+      "website": "https://www.publicstorage.com/self-storage-il-chicago/1209.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-il-chicago/1209.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is 6:00 AM–10:00 PM.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-il-chicago/1209.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 1129 N Wells Street",
+      "area": "Old Town / Near North Side",
+      "address": "1129 N Wells Street, Chicago, IL 60610",
+      "phone": "312-429-7285",
+      "website": "https://www.publicstorage.com/self-storage-il-chicago/1217.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-il-chicago/1217.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": false,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page publishes “All Rentals Month to Month.” Climate-control storage is not listed among this facility’s features. We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is 6:00 AM–10:00 PM.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-il-chicago/1217.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 362 W Chicago Ave",
+      "area": "River North",
+      "address": "362 W Chicago Ave, Chicago, IL 60654",
+      "phone": "312-283-1862",
+      "website": "https://www.publicstorage.com/self-storage-il-chicago/1268.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-il-chicago/1268.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is 6:00 AM–10:00 PM.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-il-chicago/1268.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 4430 N Clark Street",
+      "area": "Uptown",
+      "address": "4430 N Clark Street, Chicago, IL 60640",
+      "phone": "872-216-9920",
+      "website": "https://www.publicstorage.com/self-storage-il-chicago/1293.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-il-chicago/1293.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is 6:00 AM–10:00 PM.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-il-chicago/1293.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 1916 N Elston Ave",
+      "area": "Near Northwest Side (Elston Ave)",
+      "address": "1916 N Elston Ave, Chicago, IL 60642",
+      "phone": "773-360-5112",
+      "website": "https://www.publicstorage.com/self-storage-il-chicago/1308.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-il-chicago/1308.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": false,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page publishes “All Rentals Month to Month.” Climate-control storage is not listed among this facility’s features. We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is 6:00 AM–10:00 PM.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-il-chicago/1308.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 2835 North Western Ave",
+      "area": "Avondale / Roscoe Village",
+      "address": "2835 North Western Ave, Chicago, IL 60618",
+      "phone": "872-233-8017",
+      "website": "https://www.publicstorage.com/self-storage-il-chicago/1326.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-il-chicago/1326.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is 6:00 AM–10:00 PM.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-il-chicago/1326.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 3659 S Ashland Ave",
+      "area": "McKinley Park",
+      "address": "3659 S Ashland Ave, Chicago, IL 60609",
+      "phone": "773-920-1940",
+      "website": "https://www.publicstorage.com/self-storage-il-chicago/1345.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-il-chicago/1345.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is 6:00 AM–10:00 PM.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-il-chicago/1345.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 1414 S Wabash Ave",
+      "area": "South Loop",
+      "address": "1414 S Wabash Ave, Chicago, IL 60605",
+      "phone": "312-429-6834",
+      "website": "https://www.publicstorage.com/self-storage-il-chicago/1443.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-il-chicago/1443.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is 6:00 AM–10:00 PM.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-il-chicago/1443.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 947 W Van Buren St",
+      "area": "West Loop",
+      "address": "947 W Van Buren St, Chicago, IL 60607",
+      "phone": "312-429-6964",
+      "website": "https://www.publicstorage.com/self-storage-il-chicago/1739.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-il-chicago/1739.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is 6:00 AM–10:00 PM.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-il-chicago/1739.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 1711 W Fullerton Ave",
+      "area": "Lincoln Park (west)",
+      "address": "1711 W Fullerton Ave, Chicago, IL 60614",
+      "phone": "872-233-8020",
+      "website": "https://www.publicstorage.com/self-storage-il-chicago/1740.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-il-chicago/1740.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is 6:00 AM–10:00 PM.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-il-chicago/1740.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "CubeSmart — 407 E 25th St",
+      "area": "Near South Side (by McCormick Place)",
+      "address": "407 E 25th St, Chicago, IL 60616",
+      "phone": "(312) 225-0116",
+      "website": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/1331.html",
+      "bookingUrl": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/1331.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "Published access hours are 6:00 AM–10:00 PM daily. The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+      },
+      "officeHours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "8:30 AM – 5:00 PM",
+        "sunday": "Closed"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists month-to-month leases among store amenities, lists climate-controlled units, and says this CubeSmart accepts deliveries. It also lists RV and boat parking.",
+      "sources": [
+        {
+          "label": "CubeSmart facility page",
+          "url": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/1331.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "CubeSmart — 1038 W 35th St",
+      "area": "Bridgeport",
+      "address": "1038 W 35th St, Chicago, IL 60609",
+      "phone": "(312) 796-6363",
+      "website": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/3652.html",
+      "bookingUrl": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/3652.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "Published access hours are 6:00 AM–10:00 PM daily. The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+      },
+      "officeHours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "8:30 AM – 5:00 PM",
+        "sunday": "Closed"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists month-to-month leases and “We Accept Deliveries” among store amenities and says the facility has climate-controlled storage units.",
+      "sources": [
+        {
+          "label": "CubeSmart facility page",
+          "url": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/3652.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "CubeSmart — 2647 N Western Ave",
+      "area": "Bucktown",
+      "address": "2647 N Western Ave, Chicago, IL 60647",
+      "phone": "(773) 227-2195",
+      "website": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/1330.html",
+      "bookingUrl": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/1330.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "Published access hours are 6:00 AM–10:00 PM daily. The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+      },
+      "officeHours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "8:30 AM – 5:00 PM",
+        "sunday": "Closed"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists month-to-month leases among store amenities and lists climate-controlled units. Deliveries are not mentioned on this page.",
+      "sources": [
+        {
+          "label": "CubeSmart facility page",
+          "url": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/1330.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "CubeSmart — 3402 N Kedzie Ave",
+      "area": "Avondale",
+      "address": "3402 N Kedzie Ave, Chicago, IL 60618",
+      "phone": "(773) 539-7867",
+      "website": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/1348.html",
+      "bookingUrl": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/1348.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "Published access hours are 6:00 AM–10:00 PM daily. The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+      },
+      "officeHours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "8:30 AM – 5:00 PM",
+        "sunday": "Closed"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists month-to-month leases among store amenities, lists climate-controlled units, and says the location accepts deliveries.",
+      "sources": [
+        {
+          "label": "CubeSmart facility page",
+          "url": "https://www.cubesmart.com/illinois-self-storage/chicago-self-storage/1348.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    }
+  ]
+}
