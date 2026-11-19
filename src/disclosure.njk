@@ -1,0 +1,41 @@
+---
+layout: base.njk
+permalink: "/affiliate-disclosure/"
+eleventyComputed:
+  title: "Affiliate disclosure · {{ site.name }}"
+  description: "How Storage24 discloses advertising and affiliate links for storage marketplaces."
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: Affiliate disclosure
+      url: /affiliate-disclosure/
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">Legal</p>
+  <h1>Affiliate disclosure</h1>
+  <p>{{ site.disclosure }} Advertising is labeled. A commission does not change a local listing, and it is not a reason we include or exclude a facility.</p>
+
+  <h2>Programs we may join</h2>
+  <p>City pages and the <a href="/guides/need-storage-access-at-night-how-24-hour-storage-really-works/">night-access guide</a> include clearly marked links for Neighbor and SpareFoot.</p>
+  <ul>
+    {% for key, program in site.affiliates %}
+    <li>
+      <strong>{{ program.name }}</strong>
+      {% if program | affiliateIsTracked %}
+      — If you click through the marked link and complete a qualifying booking, Storage24 may receive a commission.
+      {% else %}
+      — The button currently goes to that company’s <a href="{{ program.publicUrl }}" rel="noopener">public website</a>. It is a placeholder until an affiliate link is approved through <a href="{{ program.programUrl }}" rel="noopener">the official program page</a>. We will not present a placeholder as a tracked affiliate URL.
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+
+  <h2>Facility links are not affiliate links</h2>
+  <p>Links to Public Storage, CubeSmart, Manhattan Mini Storage, StorQuest, and similar facility pages are ordinary deep links to those companies’ public sites. We did not find an official Public Storage or Extra Space publisher program with published conversion terms in the November 18, 2026 research pass, and we will not invent one.</p>
+
+  <h2>Listings are not paid placements</h2>
+  <p>The directory itself is researched from public sources. We do not charge a fee to be included in the first version of this site, and we do not accept payment to invent or inflate hours or amenities. If that policy changes, we will say so here and on the affected page.</p>
+
+  <p>Questions: <a href="mailto:{{ site.emailContact }}">{{ site.emailContact }}</a>.</p>
+</article>

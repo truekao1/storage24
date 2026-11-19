@@ -1,0 +1,40 @@
+---
+layout: base.njk
+permalink: "/"
+eleventyComputed:
+  title: "{{ site.name }} — storage with published access hours, climate control, and month-to-month terms"
+  description: "{{ site.description }}"
+  breadcrumbs:
+    - name: Home
+      url: /
+---
+<section class="page-hero wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">A public-source directory</p>
+  <h1>{{ site.tagline }}</h1>
+  <p class="lede">{{ site.description }} We only list hours and amenity flags that a facility publishes, and we date every check. If we cannot verify it, it does not go on the page. We do not cache live unit prices or vacancy — if a price appears, it is labeled as listed on a date.</p>
+</section>
+
+<section class="wrap" id="cities">
+  <div class="section-head">
+    <h2>Cities</h2>
+    <p class="muted">Each city is one data file, so a new page can ship as soon as the listings are verified.</p>
+  </div>
+  <ul class="city-grid">
+    {% for city in cities %}
+    <li>
+      <a class="city-card" href="{{ city | cityPath }}">
+        <h3>{{ city.city }}, {{ city.state }}</h3>
+        <p>{% if city.focus %}{{ city.focus }} focus · {% endif %}{{ city.listings | length }} listings</p>
+        <p class="small muted">Updated {{ city.lastUpdated | displayDate }}</p>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="wrap tonight">
+  <h2>Why this directory exists</h2>
+  <p>People looking for storage often need a unit they can reach after work, climate control for furniture or documents, and a lease they can end month to month. Generic “storage near me” lists rarely separate gate hours from office hours, and a “24/7” badge on a marketing page is not always the same as published around-the-clock access.</p>
+  <p><a href="/guides/need-storage-access-at-night-how-24-hour-storage-really-works/">Read the night-access guide</a> · <a href="/about/">How we research listings</a></p>
+</section>

@@ -1,0 +1,67 @@
+{
+  "slug": "st-city",
+  "city": "City",
+  "citySlug": "city",
+  "state": "ST",
+  "stateName": "State",
+  "focus": "",
+  "lastUpdated": "YYYY-MM-DD",
+  "intro": "Replace with a short, factual intro. Do not invent coverage you did not research.",
+  "listings": [
+    {
+      "name": "",
+      "category": "storage",
+      "area": "",
+      "address": "",
+      "phone": "",
+      "website": "",
+      "bookingUrl": "",
+      "accessHours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": ""
+      },
+      "officeHours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": ""
+      },
+      "hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": ""
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": false,
+        "monthToMonth": false,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "",
+          "url": ""
+        }
+      ],
+      "lastChecked": "YYYY-MM-DD"
+    }
+  ]
+}

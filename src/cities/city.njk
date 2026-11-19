@@ -1,0 +1,148 @@
+---
+layout: base.njk
+pagination:
+  data: cities
+  size: 1
+  alias: city
+permalink: "/{{ city.state | lower }}/{{ city.citySlug }}/"
+eleventyComputed:
+  title: "Self-storage with published access hours in {{ city.city }}, {{ city.state }} · {{ site.name }}"
+  description: "Verified self-storage facilities in {{ city.city }}, {{ city.state }}{% if city.focus %}, with a {{ city.focus }} focus{% endif %}. Access hours, office hours, climate control, and month-to-month flags are copied from public sources and dated when last checked. We do not cache live unit prices or vacancy."
+  ogType: "article"
+  extraJs: "/assets/filters.js"
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: "{{ city.city }}, {{ city.state }}"
+      url: "/{{ city.state | lower }}/{{ city.citySlug }}/"
+---
+{% set faqs = city.faqs if city.faqs else (city | defaultCityFaqs) %}
+
+<article class="city-page">
+  <header class="page-hero wrap">
+    {% include "partials/breadcrumbs.njk" %}
+    <p class="eyebrow">{{ city.stateName }}{% if city.focus %} · {{ city.focus }} focus{% endif %}</p>
+    <h1>Self-storage in {{ city.city }}, {{ city.state }}</h1>
+    <p class="lede">{{ city.intro }}</p>
+    <p class="meta">{{ city.listings | length }} listings · Last updated {{ city.lastUpdated | displayDate }}</p>
+  </header>
+
+  <section class="wrap" id="listings" aria-labelledby="listings-heading">
+    <div class="section-head">
+      <h2 id="listings-heading">Listings</h2>
+      <p class="muted">Filter by what the facility itself publishes. A flag is not a guarantee that a unit is vacant today. We do not cache live prices; if a price appears, it is labeled as listed on a date.</p>
+    </div>
+
+    <div class="filters" data-filter-bar>
+      <p class="filter-label" id="filter-label">Show only:</p>
+      <div class="filter-toggles" role="group" aria-labelledby="filter-label">
+        <button type="button" class="chip" data-filter="open24hours" aria-pressed="false">24-hour access</button>
+        <button type="button" class="chip" data-filter="climatecontrol" aria-pressed="false">Climate control</button>
+        <button type="button" class="chip" data-filter="monthtomonth" aria-pressed="false">Month-to-month</button>
+        <button type="button" class="chip" data-filter="deliveries" aria-pressed="false">Deliveries accepted</button>
+        <button type="button" class="chip" data-filter="extendedaccess" aria-pressed="false">Extended access on request</button>
+      </div>
+      <p class="filter-count" data-filter-count></p>
+    </div>
+
+    <div class="table-scroll">
+      <table class="listing-table">
+        <thead>
+          <tr>
+            <th scope="col">Facility</th>
+            <th scope="col">Area &amp; address</th>
+            <th scope="col">Access hours</th>
+            <th scope="col">Office hours</th>
+            <th scope="col">Terms &amp; contact</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for listing in city.listings %}
+          <tr
+            id="{{ listing.name | slugifyId }}"
+            class="listing-row"
+            data-open24hours="{{ '1' if listing.flags.open24Hours else '0' }}"
+            data-climatecontrol="{{ '1' if listing.flags.climateControl else '0' }}"
+            data-monthtomonth="{{ '1' if listing.flags.monthToMonth else '0' }}"
+            data-deliveries="{{ '1' if listing.flags.deliveriesAccepted else '0' }}"
+            data-extendedaccess="{{ '1' if listing.flags.extendedAccessOnRequest else '0' }}"
+          >
+            <td>
+              {% if listing.website %}
+              <a class="listing-name" href="{{ listing.website }}" rel="noopener">{{ listing.name }}</a>
+              {% else %}
+              <span class="listing-name">{{ listing.name }}</span>
+              {% endif %}
+              {% if listing.feeNotes %}<p class="small muted">{{ listing.feeNotes }}</p>{% endif %}
+              <p class="small muted">Last checked {{ listing.lastChecked | displayDate }} · {% for source in listing.sources %}<a href="{{ source.url }}" rel="noopener">{{ source.label }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>
+            </td>
+            <td>
+              <p>{{ listing.area }}</p>
+              {% if listing.address %}<p class="small muted">{{ listing.address }}</p>{% endif %}
+              {% if listing.visitNotes %}<p class="small muted">{{ listing.visitNotes }}</p>{% endif %}
+            </td>
+            <td>
+              <p>{{ listing.accessHours | hoursSummary }}</p>
+              {% if listing.accessHours.notes %}<p class="small muted">{{ listing.accessHours.notes }}</p>{% endif %}
+            </td>
+            <td>
+              <p>{{ listing.officeHours | hoursSummary }}</p>
+              {% if listing.officeHours.notes %}<p class="small muted">{{ listing.officeHours.notes }}</p>{% endif %}
+            </td>
+            <td>
+              <ul class="flags">
+                {% if listing.flags.open24Hours %}<li>24-hour access</li>{% endif %}
+                {% if listing.flags.climateControl %}<li>Climate control</li>{% endif %}
+                {% if listing.flags.monthToMonth %}<li>Month-to-month</li>{% endif %}
+                {% if listing.flags.deliveriesAccepted %}<li>Deliveries accepted</li>{% endif %}
+                {% if listing.flags.extendedAccessOnRequest %}<li>Extended access on request</li>{% endif %}
+              </ul>
+              {% if listing.phone %}<p><a href="{{ listing.phone | telHref }}">{{ listing.phone }}</a></p>{% endif %}
+              {% if listing.bookingUrl %}<p><a href="{{ listing.bookingUrl }}" rel="noopener">Facility or reservation page</a></p>{% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <p class="empty-filter" data-empty-filter hidden>No listings on this page match those filters. Clear a filter, or read the <a href="/guides/need-storage-access-at-night-how-24-hour-storage-really-works/">night-access guide</a>.</p>
+  </section>
+
+  <section class="wrap tonight" id="how-to-rent" aria-labelledby="how-to-heading">
+    <h2 id="how-to-heading">If you need the unit after hours</h2>
+    <ol class="steps">
+      <li>Read the access hours, not just the office hours. They are often different.</li>
+      <li>Treat “24-hour access,” “24/7,” and “available upon request” as three different claims. We only flag 24-hour access when the published access hours are around the clock.</li>
+      <li>Confirm climate control and month-to-month terms on the operator’s own page before you pay. Flags on this site can go stale.</li>
+      <li>For a peer-to-peer or marketplace option, compare <a href="{{ site.affiliates.neighbor | affiliateHref }}" {% if site.affiliates.neighbor | affiliateIsTracked %}rel="sponsored nofollow noopener"{% else %}rel="noopener"{% endif %} target="_blank">Neighbor</a>{% if not (site.affiliates.neighbor | affiliateIsTracked) %} (public website, not a tracked affiliate link yet){% endif %} or <a href="{{ site.affiliates.spareFoot | affiliateHref }}" {% if site.affiliates.spareFoot | affiliateIsTracked %}rel="sponsored nofollow noopener"{% else %}rel="noopener"{% endif %} target="_blank">SpareFoot</a>{% if not (site.affiliates.spareFoot | affiliateIsTracked) %} (public website, not a tracked affiliate link yet){% endif %}.</li>
+      <li>For a fuller explanation, read the <a href="/guides/need-storage-access-at-night-how-24-hour-storage-really-works/">night-access guide</a>.</li>
+    </ol>
+  </section>
+
+  <div class="wrap">
+    {% include "partials/affiliate.njk" %}
+  </div>
+
+  <section class="wrap more-cities" aria-labelledby="more-heading">
+    <h2 id="more-heading">Other cities and the night-access guide</h2>
+    <ul class="internal-links">
+      {% for other in cities %}
+      {% if other.slug != city.slug %}
+      <li><a href="{{ other | cityPath }}">Self-storage in {{ other.city }}, {{ other.state }}</a> ({{ other.listings | length }} listings)</li>
+      {% endif %}
+      {% endfor %}
+      <li><a href="/guides/need-storage-access-at-night-how-24-hour-storage-really-works/">Need storage access at night? How 24-hour storage really works</a></li>
+      <li><a href="/">All cities</a></li>
+    </ul>
+  </section>
+
+  <section class="wrap faq" id="faq" aria-labelledby="faq-heading">
+    <h2 id="faq-heading">Frequently asked questions</h2>
+    {% for faq in faqs %}
+    <details>
+      <summary>{{ faq.q }}</summary>
+      <p>{{ faq.a }}</p>
+    </details>
+    {% endfor %}
+  </section>
+</article>

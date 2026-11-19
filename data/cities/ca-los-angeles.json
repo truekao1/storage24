@@ -1,0 +1,630 @@
+{
+  "slug": "ca-los-angeles",
+  "city": "Los Angeles",
+  "citySlug": "los-angeles",
+  "state": "CA",
+  "stateName": "California",
+  "focus": "West Los Angeles, Hollywood, Mid-City, Palms, Eagle Rock, University Park, Playa Vista, and South Los Angeles",
+  "lastUpdated": "2026-11-18",
+  "intro": "These Los Angeles listings were checked on operator-owned facility pages on November 18, 2026. Access hours and office hours are recorded separately when the operator publishes both. Climate control and month-to-month terms are flagged only when that facility’s page says so; two StorQuest pages in this sample list climate control but did not publish a month-to-month statement, so that flag is left off. One Public Storage page in Palms displays a 24/7 access badge while its published access-hours table is 6:00 AM–10:00 PM — we recorded the table and noted the badge. This is a starting sample, not a citywide inventory, and we do not cache live unit prices or vacancy.",
+  "listings": [
+    {
+      "name": "Public Storage — 3773 S Durango Ave",
+      "area": "Palms",
+      "address": "3773 S Durango Ave, Los Angeles, CA 90034",
+      "phone": "424-253-8235",
+      "website": "https://www.publicstorage.com/self-storage-ca-los-angeles/2058.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-ca-los-angeles/2058.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page publishes “All Rentals Month to Month.” The facility page lists climate-control storage among its features.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-ca-los-angeles/2058.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "category": "storage"
+    },
+    {
+      "name": "CubeSmart — 11820 W Olympic Blvd",
+      "area": "West Los Angeles",
+      "address": "11820 W Olympic Blvd, Los Angeles, CA 90064",
+      "phone": "(833) 236-7825",
+      "website": "https://www.cubesmart.com/california-self-storage/los-angeles-self-storage/3844.html",
+      "bookingUrl": "https://www.cubesmart.com/california-self-storage/los-angeles-self-storage/3844.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "officeHours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "8:30 AM – 5:00 PM",
+        "sunday": "Closed"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists month-to-month leases and deliveries accepted as store amenities, and it lists climate-controlled units. Sunday office hours are published as closed; access hours are published daily.",
+      "sources": [
+        {
+          "label": "CubeSmart facility page",
+          "url": "https://www.cubesmart.com/california-self-storage/los-angeles-self-storage/3844.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 6840 Santa Monica Blvd",
+      "area": "Hollywood",
+      "address": "6840 Santa Monica Blvd, Los Angeles, CA 90038",
+      "phone": "323-391-3978",
+      "website": "https://www.publicstorage.com/self-storage-ca-los-angeles/12.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-ca-los-angeles/12.html",
+      "accessHours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "9:30 AM – 5:00 PM",
+        "sunday": "9:30 AM – 5:00 PM"
+      },
+      "officeHours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "9:30 AM – 5:00 PM",
+        "sunday": "9:30 AM – 5:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page publishes “All Rentals Month to Month.” The facility page lists climate-control storage among its features.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-ca-los-angeles/12.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "9:30 AM – 5:00 PM",
+        "sunday": "9:30 AM – 5:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 4174 W Pico Blvd",
+      "area": "Mid-City",
+      "address": "4174 W Pico Blvd, Los Angeles, CA 90019",
+      "phone": "323-709-5787",
+      "website": "https://www.publicstorage.com/self-storage-ca-los-angeles/2228.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-ca-los-angeles/2228.html",
+      "accessHours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "9:30 AM – 5:00 PM",
+        "sunday": "9:30 AM – 5:00 PM"
+      },
+      "officeHours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "9:30 AM – 5:00 PM",
+        "sunday": "9:30 AM – 5:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page publishes “All Rentals Month to Month.” The facility page lists climate-control storage among its features.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-ca-los-angeles/2228.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "9:30 AM – 5:00 PM",
+        "sunday": "9:30 AM – 5:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 1901 S Sepulveda Blvd",
+      "area": "West Los Angeles",
+      "address": "1901 S Sepulveda Blvd, Los Angeles, CA 90025",
+      "phone": "310-956-1845",
+      "website": "https://www.publicstorage.com/self-storage-ca-los-angeles/2321.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-ca-los-angeles/2321.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page publishes “All Rentals Month to Month.” The facility page lists climate-control storage among its features.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-ca-los-angeles/2321.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 11259 W Olympic Blvd",
+      "area": "West Los Angeles",
+      "address": "11259 W Olympic Blvd, Los Angeles, CA 90064",
+      "phone": "424-652-8042",
+      "website": "https://www.publicstorage.com/self-storage-ca-los-angeles/28.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-ca-los-angeles/28.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page publishes “All Rentals Month to Month.” The facility page lists climate-control storage among its features.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-ca-los-angeles/28.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 11200 W Pico Blvd",
+      "area": "West Los Angeles",
+      "address": "11200 W Pico Blvd, Los Angeles, CA 90064",
+      "phone": "424-901-0467",
+      "website": "https://www.publicstorage.com/self-storage-ca-los-angeles/305.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-ca-los-angeles/305.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page publishes “All Rentals Month to Month.” The facility page lists climate-control storage among its features.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-ca-los-angeles/305.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 12681 W Jefferson Blvd",
+      "area": "Playa Vista",
+      "address": "12681 W Jefferson Blvd, Los Angeles, CA 90066",
+      "phone": "424-835-5663",
+      "website": "https://www.publicstorage.com/self-storage-ca-los-angeles/47.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-ca-los-angeles/47.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page publishes “All Rentals Month to Month.” The facility page lists climate-control storage among its features.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-ca-los-angeles/47.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 3625 S Grand Ave",
+      "area": "University Park",
+      "address": "3625 S Grand Ave, Los Angeles, CA 90007",
+      "phone": "213-985-2964",
+      "website": "https://www.publicstorage.com/self-storage-ca-los-angeles/6304.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-ca-los-angeles/6304.html",
+      "accessHours": {
+        "monday": "8:00 AM – 7:00 PM",
+        "tuesday": "8:00 AM – 7:00 PM",
+        "wednesday": "8:00 AM – 7:00 PM",
+        "thursday": "8:00 AM – 7:00 PM",
+        "friday": "8:00 AM – 7:00 PM",
+        "saturday": "8:00 AM – 7:00 PM",
+        "sunday": "8:00 AM – 7:00 PM"
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 7:00 PM",
+        "tuesday": "8:00 AM – 7:00 PM",
+        "wednesday": "8:00 AM – 7:00 PM",
+        "thursday": "8:00 AM – 7:00 PM",
+        "friday": "8:00 AM – 7:00 PM",
+        "saturday": "8:00 AM – 7:00 PM",
+        "sunday": "8:00 AM – 7:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page publishes “All Rentals Month to Month.” The facility page lists climate-control storage among its features. The page also lists gate access hours as Monday–Sunday 8:00 AM–7:00 PM, matching the access-hours table.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-ca-los-angeles/6304.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "8:00 AM – 7:00 PM",
+        "tuesday": "8:00 AM – 7:00 PM",
+        "wednesday": "8:00 AM – 7:00 PM",
+        "thursday": "8:00 AM – 7:00 PM",
+        "friday": "8:00 AM – 7:00 PM",
+        "saturday": "8:00 AM – 7:00 PM",
+        "sunday": "8:00 AM – 7:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 3810 Eagle Rock Blvd",
+      "area": "Eagle Rock",
+      "address": "3810 Eagle Rock Blvd, Los Angeles, CA 90065",
+      "phone": "323-391-3967",
+      "website": "https://www.publicstorage.com/self-storage-ca-los-angeles/66.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-ca-los-angeles/66.html",
+      "accessHours": {
+        "monday": "6:00 AM – 6:00 PM",
+        "tuesday": "6:00 AM – 6:00 PM",
+        "wednesday": "6:00 AM – 6:00 PM",
+        "thursday": "6:00 AM – 6:00 PM",
+        "friday": "6:00 AM – 6:00 PM",
+        "saturday": "6:00 AM – 5:00 PM",
+        "sunday": "6:00 AM – 5:00 PM"
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 6:00 PM",
+        "tuesday": "6:00 AM – 6:00 PM",
+        "wednesday": "6:00 AM – 6:00 PM",
+        "thursday": "6:00 AM – 6:00 PM",
+        "friday": "6:00 AM – 6:00 PM",
+        "saturday": "6:00 AM – 5:00 PM",
+        "sunday": "6:00 AM – 5:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page publishes “All Rentals Month to Month.” The facility page lists climate-control storage among its features.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-ca-los-angeles/66.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 6:00 PM",
+        "tuesday": "6:00 AM – 6:00 PM",
+        "wednesday": "6:00 AM – 6:00 PM",
+        "thursday": "6:00 AM – 6:00 PM",
+        "friday": "6:00 AM – 6:00 PM",
+        "saturday": "6:00 AM – 5:00 PM",
+        "sunday": "6:00 AM – 5:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "StorQuest — 3707 S Hill St",
+      "area": "South Los Angeles",
+      "address": "3707 S Hill St, Los Angeles, CA 90007",
+      "phone": "(213) 596-4854",
+      "website": "https://www.storquest.com/self-storage/ca/los-angeles/3707-south-hill-street",
+      "bookingUrl": "https://www.storquest.com/self-storage/ca/los-angeles/3707-south-hill-street",
+      "accessHours": {
+        "monday": "8:00 AM – 7:00 PM",
+        "tuesday": "8:00 AM – 7:00 PM",
+        "wednesday": "8:00 AM – 7:00 PM",
+        "thursday": "8:00 AM – 7:00 PM",
+        "friday": "8:00 AM – 7:00 PM",
+        "saturday": "8:00 AM – 7:00 PM",
+        "sunday": "8:00 AM – 7:00 PM",
+        "notes": "The facility page also says “Extended Access Hours Available. See Manager for Details.”"
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 7:00 PM",
+        "tuesday": "8:00 AM – 7:00 PM",
+        "wednesday": "8:00 AM – 7:00 PM",
+        "thursday": "8:00 AM – 7:00 PM",
+        "friday": "8:00 AM – 7:00 PM",
+        "saturday": "8:00 AM – 7:00 PM",
+        "sunday": "8:00 AM – 7:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": false,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": true
+      },
+      "visitNotes": "The facility page lists climate-controlled storage as an amenity. We did not find a published month-to-month statement on this facility page, so that flag is left off.",
+      "sources": [
+        {
+          "label": "StorQuest facility page",
+          "url": "https://www.storquest.com/self-storage/ca/los-angeles/3707-south-hill-street"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "8:00 AM – 7:00 PM",
+        "tuesday": "8:00 AM – 7:00 PM",
+        "wednesday": "8:00 AM – 7:00 PM",
+        "thursday": "8:00 AM – 7:00 PM",
+        "friday": "8:00 AM – 7:00 PM",
+        "saturday": "8:00 AM – 7:00 PM",
+        "sunday": "8:00 AM – 7:00 PM",
+        "notes": "The facility page also says “Extended Access Hours Available. See Manager for Details.”"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "StorQuest — 2531 Sawtelle Blvd",
+      "area": "West Los Angeles",
+      "address": "2531 Sawtelle Blvd, Los Angeles, CA 90064",
+      "phone": "(310) 817-6710",
+      "website": "https://www.storquest.com/self-storage/ca/los-angeles/2531-sawtelle-boulevard",
+      "bookingUrl": "https://www.storquest.com/self-storage/ca/los-angeles/2531-sawtelle-boulevard",
+      "accessHours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "9:00 AM – 6:00 PM",
+        "sunday": "10:00 AM – 5:00 PM",
+        "notes": "The facility page also says “Extended Access Hours Available. See Manager for Details.”"
+      },
+      "officeHours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "9:00 AM – 6:00 PM",
+        "sunday": "10:00 AM – 5:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": false,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": true
+      },
+      "visitNotes": "The facility page lists climate-controlled storage as an amenity. We did not find a published month-to-month statement on this facility page, so that flag is left off.",
+      "sources": [
+        {
+          "label": "StorQuest facility page",
+          "url": "https://www.storquest.com/self-storage/ca/los-angeles/2531-sawtelle-boulevard"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "9:00 AM – 6:00 PM",
+        "sunday": "10:00 AM – 5:00 PM",
+        "notes": "The facility page also says “Extended Access Hours Available. See Manager for Details.”"
+      },
+      "category": "storage"
+    }
+  ]
+}

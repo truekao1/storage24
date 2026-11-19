@@ -1,0 +1,723 @@
+{
+  "slug": "ny-new-york",
+  "city": "New York",
+  "citySlug": "new-york",
+  "state": "NY",
+  "stateName": "New York",
+  "focus": "Manhattan, plus Long Island City, Brooklyn, and Staten Island",
+  "lastUpdated": "2026-11-18",
+  "intro": "These New York listings were checked on operator-owned facility pages on November 18, 2026. We copied published access hours and office hours separately, and we only flag climate control, month-to-month terms, deliveries, or after-hours access when the operator’s page says so. None of the facilities in this first sample published around-the-clock access hours; a few Manhattan Mini Storage pages say 24-hour access is available upon request, and one Public Storage page in Staten Island shows a 24/7 access badge while its access-hours table is 6:00 AM–10:00 PM. This is a starting sample, not a citywide inventory, and we do not cache live unit prices or vacancy.",
+  "listings": [
+    {
+      "name": "Manhattan Mini Storage — 420 E 62nd St",
+      "area": "Upper East Side",
+      "address": "420 E 62nd St, New York, NY 10065",
+      "phone": "(212) 838-3670",
+      "website": "https://www.manhattanministorage.com/storage-units/new-york-ny/420-e-62nd-st",
+      "bookingUrl": "https://www.manhattanministorage.com/storage-units/new-york-ny/420-e-62nd-st",
+      "accessHours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM",
+        "notes": "The facility page also says 24-hour access is available upon request. Published access hours are 7:00 AM–10:00 PM daily."
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 8:00 PM",
+        "tuesday": "8:00 AM – 8:00 PM",
+        "wednesday": "8:00 AM – 8:00 PM",
+        "thursday": "8:00 AM – 8:00 PM",
+        "friday": "8:00 AM – 8:00 PM",
+        "saturday": "8:00 AM – 8:00 PM",
+        "sunday": "8:00 AM – 8:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": true
+      },
+      "visitNotes": "The page lists climate-controlled units, deliveries accepted, and flexible month-to-month as facility amenities.",
+      "sources": [
+        {
+          "label": "Manhattan Mini Storage facility page",
+          "url": "https://www.manhattanministorage.com/storage-units/new-york-ny/420-e-62nd-st"
+        },
+        {
+          "label": "Manhattan Mini Storage FAQs (month-to-month leases)",
+          "url": "https://www.manhattanministorage.com/storage-faqs"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM",
+        "notes": "The facility page also says 24-hour access is available upon request. Published access hours are 7:00 AM–10:00 PM daily."
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Manhattan Mini Storage — 260 Spring St",
+      "area": "SoHo",
+      "address": "260 Spring St, New York, NY 10013",
+      "phone": "(212) 924-5692",
+      "website": "https://www.manhattanministorage.com/storage-units/new-york-ny/260-spring-st",
+      "bookingUrl": "https://www.manhattanministorage.com/storage-units/new-york-ny/260-spring-st",
+      "accessHours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM",
+        "notes": "The facility page also says 24-hour access is available upon request. Published access hours are 7:00 AM–10:00 PM daily."
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 8:00 PM",
+        "tuesday": "8:00 AM – 8:00 PM",
+        "wednesday": "8:00 AM – 8:00 PM",
+        "thursday": "8:00 AM – 8:00 PM",
+        "friday": "8:00 AM – 8:00 PM",
+        "saturday": "8:00 AM – 8:00 PM",
+        "sunday": "8:00 AM – 8:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": true
+      },
+      "visitNotes": "The page lists climate-controlled units, deliveries accepted, and flexible month-to-month as facility amenities.",
+      "sources": [
+        {
+          "label": "Manhattan Mini Storage facility page",
+          "url": "https://www.manhattanministorage.com/storage-units/new-york-ny/260-spring-st"
+        },
+        {
+          "label": "Manhattan Mini Storage FAQs (month-to-month leases)",
+          "url": "https://www.manhattanministorage.com/storage-faqs"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM",
+        "notes": "The facility page also says 24-hour access is available upon request. Published access hours are 7:00 AM–10:00 PM daily."
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Manhattan Mini Storage — 401 E 110th St",
+      "area": "East Harlem",
+      "address": "401 E 110th St, New York, NY 10029",
+      "phone": "(212) 534-8412",
+      "website": "https://www.manhattanministorage.com/storage-units/new-york-ny/401-e-110th-st",
+      "bookingUrl": "https://www.manhattanministorage.com/storage-units/new-york-ny/401-e-110th-st",
+      "accessHours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM",
+        "notes": "The facility page also says 24-hour access is available upon request. Published access hours are 7:00 AM–10:00 PM daily."
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 8:00 PM",
+        "tuesday": "8:00 AM – 8:00 PM",
+        "wednesday": "8:00 AM – 8:00 PM",
+        "thursday": "8:00 AM – 8:00 PM",
+        "friday": "8:00 AM – 8:00 PM",
+        "saturday": "8:00 AM – 8:00 PM",
+        "sunday": "8:00 AM – 8:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": true
+      },
+      "visitNotes": "The page lists climate-controlled units, deliveries accepted, and flexible month-to-month as facility amenities.",
+      "sources": [
+        {
+          "label": "Manhattan Mini Storage facility page",
+          "url": "https://www.manhattanministorage.com/storage-units/new-york-ny/401-e-110th-st"
+        },
+        {
+          "label": "Manhattan Mini Storage FAQs (month-to-month leases)",
+          "url": "https://www.manhattanministorage.com/storage-faqs"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM",
+        "notes": "The facility page also says 24-hour access is available upon request. Published access hours are 7:00 AM–10:00 PM daily."
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Manhattan Mini Storage — 543 W 43rd St",
+      "area": "Hell's Kitchen",
+      "address": "543 W 43rd St, New York, NY 10036",
+      "phone": "(212) 563-3236",
+      "website": "https://www.manhattanministorage.com/storage-units/new-york-ny/543-w-43rd-st",
+      "bookingUrl": "https://www.manhattanministorage.com/storage-units/new-york-ny/543-w-43rd-st",
+      "accessHours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM"
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 8:00 PM",
+        "tuesday": "8:00 AM – 8:00 PM",
+        "wednesday": "8:00 AM – 8:00 PM",
+        "thursday": "8:00 AM – 8:00 PM",
+        "friday": "8:00 AM – 8:00 PM",
+        "saturday": "8:00 AM – 8:00 PM",
+        "sunday": "8:00 AM – 8:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The page lists climate-controlled units, deliveries accepted, and flexible month-to-month as facility amenities.",
+      "sources": [
+        {
+          "label": "Manhattan Mini Storage facility page",
+          "url": "https://www.manhattanministorage.com/storage-units/new-york-ny/543-w-43rd-st"
+        },
+        {
+          "label": "Manhattan Mini Storage FAQs (month-to-month leases)",
+          "url": "https://www.manhattanministorage.com/storage-faqs"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Manhattan Mini Storage — 524 W 23rd St",
+      "area": "Chelsea",
+      "address": "524 W 23rd St, New York, NY 10011",
+      "phone": "(212) 255-0896",
+      "website": "https://www.manhattanministorage.com/storage-units/new-york-ny/524-w-23rd-st",
+      "bookingUrl": "https://www.manhattanministorage.com/storage-units/new-york-ny/524-w-23rd-st",
+      "accessHours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM"
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 8:00 PM",
+        "tuesday": "8:00 AM – 8:00 PM",
+        "wednesday": "8:00 AM – 8:00 PM",
+        "thursday": "8:00 AM – 8:00 PM",
+        "friday": "8:00 AM – 8:00 PM",
+        "saturday": "8:00 AM – 8:00 PM",
+        "sunday": "8:00 AM – 8:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The page lists climate-controlled units, deliveries accepted, extended access hours, and flexible month-to-month as facility amenities. The published access table is 7:00 AM–10:00 PM daily.",
+      "sources": [
+        {
+          "label": "Manhattan Mini Storage facility page",
+          "url": "https://www.manhattanministorage.com/storage-units/new-york-ny/524-w-23rd-st"
+        },
+        {
+          "label": "Manhattan Mini Storage FAQs (month-to-month leases)",
+          "url": "https://www.manhattanministorage.com/storage-faqs"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Manhattan Mini Storage — 155-165 W 29th St",
+      "area": "Midtown South",
+      "address": "155-165 W 29th St, New York, NY 10001",
+      "phone": "(212) 850-5060",
+      "website": "https://www.manhattanministorage.com/storage-units/new-york-ny/155-165-w-29th-st",
+      "bookingUrl": "https://www.manhattanministorage.com/storage-units/new-york-ny/155-165-w-29th-st",
+      "accessHours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM"
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 8:00 PM",
+        "tuesday": "8:00 AM – 8:00 PM",
+        "wednesday": "8:00 AM – 8:00 PM",
+        "thursday": "8:00 AM – 8:00 PM",
+        "friday": "8:00 AM – 8:00 PM",
+        "saturday": "8:00 AM – 8:00 PM",
+        "sunday": "8:00 AM – 8:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The page lists climate-controlled units, deliveries accepted, extended access hours, and flexible month-to-month as facility amenities. The published access table is 7:00 AM–10:00 PM daily.",
+      "sources": [
+        {
+          "label": "Manhattan Mini Storage facility page",
+          "url": "https://www.manhattanministorage.com/storage-units/new-york-ny/155-165-w-29th-st"
+        },
+        {
+          "label": "Manhattan Mini Storage FAQs (month-to-month leases)",
+          "url": "https://www.manhattanministorage.com/storage-faqs"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Manhattan Mini Storage — 220 South St",
+      "area": "Lower East Side",
+      "address": "220 South St, New York, NY 10002",
+      "phone": "(212) 233-2302",
+      "website": "https://www.manhattanministorage.com/storage-units/new-york-ny/220-south-st",
+      "bookingUrl": "https://www.manhattanministorage.com/storage-units/new-york-ny/220-south-st",
+      "accessHours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM"
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 8:00 PM",
+        "tuesday": "8:00 AM – 8:00 PM",
+        "wednesday": "8:00 AM – 8:00 PM",
+        "thursday": "8:00 AM – 8:00 PM",
+        "friday": "8:00 AM – 8:00 PM",
+        "saturday": "8:00 AM – 8:00 PM",
+        "sunday": "8:00 AM – 8:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The page lists climate-controlled units, deliveries accepted, extended access hours, and flexible month-to-month as facility amenities. The published access table is 7:00 AM–10:00 PM daily.",
+      "sources": [
+        {
+          "label": "Manhattan Mini Storage facility page",
+          "url": "https://www.manhattanministorage.com/storage-units/new-york-ny/220-south-st"
+        },
+        {
+          "label": "Manhattan Mini Storage FAQs (month-to-month leases)",
+          "url": "https://www.manhattanministorage.com/storage-faqs"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Manhattan Mini Storage — 541 W 29th St",
+      "area": "West Chelsea",
+      "address": "541 W 29th St, New York, NY 10001",
+      "phone": "(212) 239-3373",
+      "website": "https://www.manhattanministorage.com/storage-units/new-york-ny/541-w-29th-st",
+      "bookingUrl": "https://www.manhattanministorage.com/storage-units/new-york-ny/541-w-29th-st",
+      "accessHours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM"
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 8:00 PM",
+        "tuesday": "8:00 AM – 8:00 PM",
+        "wednesday": "8:00 AM – 8:00 PM",
+        "thursday": "8:00 AM – 8:00 PM",
+        "friday": "8:00 AM – 8:00 PM",
+        "saturday": "8:00 AM – 8:00 PM",
+        "sunday": "8:00 AM – 8:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The page lists climate-controlled units, deliveries accepted, extended access hours, and flexible month-to-month as facility amenities. The published access table is 7:00 AM–10:00 PM daily.",
+      "sources": [
+        {
+          "label": "Manhattan Mini Storage facility page",
+          "url": "https://www.manhattanministorage.com/storage-units/new-york-ny/541-w-29th-st"
+        },
+        {
+          "label": "Manhattan Mini Storage FAQs (month-to-month leases)",
+          "url": "https://www.manhattanministorage.com/storage-faqs"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "7:00 AM – 10:00 PM",
+        "tuesday": "7:00 AM – 10:00 PM",
+        "wednesday": "7:00 AM – 10:00 PM",
+        "thursday": "7:00 AM – 10:00 PM",
+        "friday": "7:00 AM – 10:00 PM",
+        "saturday": "7:00 AM – 10:00 PM",
+        "sunday": "7:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Manhattan Mini Storage — 31-08 Northern Blvd",
+      "area": "Long Island City",
+      "address": "31-08 Northern Blvd, Long Island City, NY 11101",
+      "phone": "(646) 998-0553",
+      "website": "https://www.manhattanministorage.com/storage-units/long-island-city-ny/31-08-northern-blvd",
+      "bookingUrl": "https://www.manhattanministorage.com/storage-units/long-island-city-ny/31-08-northern-blvd",
+      "accessHours": {
+        "monday": "8:00 AM – 10:00 PM",
+        "tuesday": "8:00 AM – 10:00 PM",
+        "wednesday": "8:00 AM – 10:00 PM",
+        "thursday": "8:00 AM – 10:00 PM",
+        "friday": "8:00 AM – 10:00 PM",
+        "saturday": "8:00 AM – 7:00 PM",
+        "sunday": "9:00 AM – 6:00 PM"
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 7:00 PM",
+        "tuesday": "8:00 AM – 7:00 PM",
+        "wednesday": "8:00 AM – 7:00 PM",
+        "thursday": "8:00 AM – 7:00 PM",
+        "friday": "8:00 AM – 7:00 PM",
+        "saturday": "8:00 AM – 7:00 PM",
+        "sunday": "9:00 AM – 6:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The page lists climate-controlled units, deliveries accepted, extended access hours, and flexible month-to-month as facility amenities. Weekday access runs later than office hours.",
+      "sources": [
+        {
+          "label": "Manhattan Mini Storage facility page",
+          "url": "https://www.manhattanministorage.com/storage-units/long-island-city-ny/31-08-northern-blvd"
+        },
+        {
+          "label": "Manhattan Mini Storage FAQs (month-to-month leases)",
+          "url": "https://www.manhattanministorage.com/storage-faqs"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "8:00 AM – 10:00 PM",
+        "tuesday": "8:00 AM – 10:00 PM",
+        "wednesday": "8:00 AM – 10:00 PM",
+        "thursday": "8:00 AM – 10:00 PM",
+        "friday": "8:00 AM – 10:00 PM",
+        "saturday": "8:00 AM – 7:00 PM",
+        "sunday": "9:00 AM – 6:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Manhattan Mini Storage — 155 King St",
+      "area": "Brooklyn",
+      "address": "155 King St, Brooklyn, NY 11231",
+      "phone": "(646) 998-0494",
+      "website": "https://www.manhattanministorage.com/storage-units/brooklyn-ny/155-king-st",
+      "bookingUrl": "https://www.manhattanministorage.com/storage-units/brooklyn-ny/155-king-st",
+      "accessHours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "9:00 AM – 6:00 PM",
+        "sunday": "10:00 AM – 5:00 PM"
+      },
+      "officeHours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "9:00 AM – 6:00 PM",
+        "sunday": "10:00 AM – 5:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": true,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The page lists climate-controlled units, deliveries accepted, and flexible month-to-month as facility amenities.",
+      "sources": [
+        {
+          "label": "Manhattan Mini Storage facility page",
+          "url": "https://www.manhattanministorage.com/storage-units/brooklyn-ny/155-king-st"
+        },
+        {
+          "label": "Manhattan Mini Storage FAQs (month-to-month leases)",
+          "url": "https://www.manhattanministorage.com/storage-faqs"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "9:00 AM – 6:00 PM",
+        "tuesday": "9:00 AM – 6:00 PM",
+        "wednesday": "9:00 AM – 6:00 PM",
+        "thursday": "9:00 AM – 6:00 PM",
+        "friday": "9:00 AM – 6:00 PM",
+        "saturday": "9:00 AM – 6:00 PM",
+        "sunday": "10:00 AM – 5:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "CubeSmart — 444 W 55th St",
+      "area": "Midtown West",
+      "address": "444 W 55th St, New York, NY 10019",
+      "phone": "(212) 315-2032",
+      "website": "https://www.cubesmart.com/new-york-self-storage/new-york-self-storage/3536.html",
+      "bookingUrl": "https://www.cubesmart.com/new-york-self-storage/new-york-self-storage/3536.html",
+      "accessHours": {
+        "monday": "8:00 AM – 8:00 PM",
+        "tuesday": "8:00 AM – 8:00 PM",
+        "wednesday": "8:00 AM – 8:00 PM",
+        "thursday": "8:00 AM – 8:00 PM",
+        "friday": "8:00 AM – 8:00 PM",
+        "saturday": "8:00 AM – 8:00 PM",
+        "sunday": "8:00 AM – 8:00 PM"
+      },
+      "officeHours": {
+        "monday": "8:00 AM – 8:00 PM",
+        "tuesday": "8:00 AM – 8:00 PM",
+        "wednesday": "8:00 AM – 8:00 PM",
+        "thursday": "8:00 AM – 8:00 PM",
+        "friday": "8:00 AM – 8:00 PM",
+        "saturday": "8:00 AM – 8:00 PM",
+        "sunday": "8:00 AM – 8:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists month-to-month leases as a store amenity and describes climate-controlled units at this location. Deliveries were not listed among the published amenities on the page we checked.",
+      "sources": [
+        {
+          "label": "CubeSmart facility page",
+          "url": "https://www.cubesmart.com/new-york-self-storage/new-york-self-storage/3536.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "8:00 AM – 8:00 PM",
+        "tuesday": "8:00 AM – 8:00 PM",
+        "wednesday": "8:00 AM – 8:00 PM",
+        "thursday": "8:00 AM – 8:00 PM",
+        "friday": "8:00 AM – 8:00 PM",
+        "saturday": "8:00 AM – 8:00 PM",
+        "sunday": "8:00 AM – 8:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 72 Emerson Place",
+      "area": "Brooklyn",
+      "address": "72 Emerson Place, Brooklyn, NY 11205",
+      "phone": "347-557-8727",
+      "website": "https://www.publicstorage.com/self-storage-ny-brooklyn/1265.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-ny-brooklyn/1265.html",
+      "accessHours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "9:30 AM – 5:00 PM",
+        "sunday": "9:30 AM – 5:00 PM"
+      },
+      "officeHours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "9:30 AM – 5:00 PM",
+        "sunday": "9:30 AM – 5:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and states that all units at this location are climate controlled. It also publishes “All Rentals Month to Month.”",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-ny-brooklyn/1265.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "9:30 AM – 6:00 PM",
+        "tuesday": "9:30 AM – 6:00 PM",
+        "wednesday": "9:30 AM – 6:00 PM",
+        "thursday": "9:30 AM – 6:00 PM",
+        "friday": "9:30 AM – 6:00 PM",
+        "saturday": "9:30 AM – 5:00 PM",
+        "sunday": "9:30 AM – 5:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 275 Veterans Road W",
+      "area": "Staten Island",
+      "address": "275 Veterans Road W, Staten Island, NY 10309",
+      "phone": "347-983-2502",
+      "website": "https://www.publicstorage.com/self-storage-ny-staten-island/1637.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-ny-staten-island/1637.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is 6:00 AM–10:00 PM.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-ny-staten-island/1637.html"
+        }
+      ],
+      "lastChecked": "2026-11-18",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+      },
+      "category": "storage"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ site.language }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="canonical" href="{{ page.url | absoluteUrl(site.url) }}">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/assets/favicon.svg">
+  <meta name="theme-color" content="#f3f1ea">
+  <meta property="og:type" content="{{ ogType or 'website' }}">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:title" content="{{ ogTitle or title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:url" content="{{ page.url | absoluteUrl(site.url) }}">
+  <meta property="og:image" content="{{ '/assets/og-image.png' | absoluteUrl(site.url) }}">
+  <meta property="og:locale" content="{{ site.locale }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ ogTitle or title }}">
+  <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:image" content="{{ '/assets/og-image.png' | absoluteUrl(site.url) }}">
+  <link rel="stylesheet" href="/assets/styles.css">
+  {% if breadcrumbs %}
+  <script type="application/ld+json">{{ breadcrumbs | breadcrumbJsonLd(site) | jsonLd | safe }}</script>
+  {% endif %}
+  {% if city %}
+  <script type="application/ld+json">{{ city | cityJsonLd(site) | jsonLd | safe }}</script>
+  {% set pageFaqs = faqs if faqs else (city | defaultCityFaqs) %}
+  <script type="application/ld+json">{{ pageFaqs | faqJsonLd(page.url | absoluteUrl(site.url)) | jsonLd | safe }}</script>
+  {% elif page.url == "/" %}
+  <script type="application/ld+json">{{ site | homeJsonLd(cities) | jsonLd | safe }}</script>
+  {% elif page.url == "/guides/need-storage-access-at-night-how-24-hour-storage-really-works/" %}
+  <script type="application/ld+json">{{ site | guideJsonLd | jsonLd | safe }}</script>
+  {% elif jsonLd %}
+  <script type="application/ld+json">{{ jsonLd | jsonLd | safe }}</script>
+  {% endif %}
+  {% if faqs and not city %}
+  <script type="application/ld+json">{{ faqs | faqJsonLd(page.url | absoluteUrl(site.url)) | jsonLd | safe }}</script>
+  {% endif %}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  {% include "partials/header.njk" %}
+  <main id="main">
+    {{ content | safe }}
+  </main>
+  {% include "partials/footer.njk" %}
+  {% if extraJs %}
+  <script src="{{ extraJs }}" defer></script>
+  {% endif %}
+</body>
+</html>

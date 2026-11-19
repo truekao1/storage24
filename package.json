@@ -1,0 +1,15 @@
+{
+  "name": "storage24",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Storage24 is a static directory of self-storage facilities filtered for 24-hour access, climate control, and month-to-month terms.",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

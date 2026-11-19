@@ -1,0 +1,30 @@
+---
+layout: base.njk
+permalink: "/list-your-business/"
+eleventyComputed:
+  title: "List your storage facility · {{ site.name }}"
+  description: "Ask to be included in Storage24. Listings are added only when access hours, office hours, address, and terms can be verified from a public source."
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: List your business
+      url: /list-your-business/
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">Self-storage operators</p>
+  <h1>List your business</h1>
+  <p>If you operate a self-storage facility and you publish access hours, office hours, climate-control options, or month-to-month terms on your website, we want the record to be accurate.</p>
+  <p>Send:</p>
+  <ul>
+    <li>Facility name and the city or neighborhood</li>
+    <li>Street address, phone, and website</li>
+    <li>Access (gate) hours and office hours for each day, including Saturday and Sunday if you publish them</li>
+    <li>Whether you offer climate-controlled units, month-to-month leases, 24-hour or extended access, or package acceptance</li>
+    <li>A public page where we can verify those facts</li>
+  </ul>
+  <p>We will not publish hours or amenities we cannot check on a public source, and we may recrawl your page before each update. We will not list live vacancy or current unit prices as if they were guaranteed.</p>
+  <p>
+    <a class="button" href="mailto:{{ site.emailListings }}?subject=List%20a%20storage%20facility">Email {{ site.emailListings }}</a>
+  </p>
+</article>

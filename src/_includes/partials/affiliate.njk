@@ -1,0 +1,16 @@
+<aside class="affiliate-box" id="storage-marketplaces">
+  <p class="eyebrow">Advertisement · Affiliate disclosure</p>
+  <h2>Need a space someone already has, or a marketplace to compare units?</h2>
+  <p><strong>Neighbor</strong> is a marketplace for reserving storage space, including unused rooms or pads listed by hosts. <strong>SpareFoot</strong> is a storage marketplace that compares traditional facilities. Until those programs issue a tracked link, the buttons below go to each company’s public website.</p>
+  <p class="disclosure">{{ site.disclosure }}</p>
+  <ul class="affiliate-links">
+    {% for key, program in site.affiliates %}
+    <li>
+      <a class="button" href="{{ program | affiliateHref }}" {% if program | affiliateIsTracked %}rel="sponsored nofollow noopener"{% else %}rel="noopener"{% endif %} target="_blank">{{ program.name }}</a>
+      {% if not (program | affiliateIsTracked) %}
+      <span class="muted small">Public website — not a tracked affiliate link yet.</span>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</aside>

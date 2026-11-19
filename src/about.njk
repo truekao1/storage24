@@ -1,0 +1,39 @@
+---
+layout: base.njk
+permalink: "/about/"
+eleventyComputed:
+  title: "About {{ site.name }}"
+  description: "Storage24 is an independent directory of self-storage facilities. We do not invent hours, amenities, or prices."
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: About
+      url: /about/
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">About</p>
+  <h1>About Storage24</h1>
+  <p>Storage24 is a small directory for a common problem: you need a storage unit you can actually reach after hours, with climate control or month-to-month terms, and generic search results do not separate gate hours from office hours.</p>
+  <p>We are an independent website. We are not a storage operator, a landlord, a booking marketplace, or a broker. We do not rent units, hold inventory, or guarantee that a listed facility has a vacant unit today.</p>
+
+  <h2>How listings get on this site</h2>
+  <ul>
+    <li>Every fact — address, access hours, office hours, phone numbers, and amenity flags — must come from a real public source, usually the facility’s own website.</li>
+    <li>Each listing includes the source URL and the date we last checked it.</li>
+    <li>If we cannot verify a detail, we leave it out. We do not invent facilities, hours, amenities, or prices.</li>
+    <li>Access hours and office hours are recorded separately when the operator publishes both.</li>
+    <li>“24-hour access” is flagged only when the published access hours are around the clock. A “24/7” badge or “available upon request” note is recorded as a note, not as a 24-hour flag, when the hours table says otherwise.</li>
+    <li>“Climate control” is flagged only when that facility’s page says climate-controlled storage is offered.</li>
+    <li>“Month-to-month” is flagged only when the facility page or a clearly applicable operator page says leases are month to month.</li>
+    <li>“Not published” is used when a day’s hours are missing; we do not invent “Closed.” “Closed” is used only when the operator publishes it.</li>
+    <li>We do not cache live unit prices or vacancy. If a price appears, it is labeled as listed on a date. Reservation links go to the operator’s own page.</li>
+  </ul>
+  <p>Hours and promotions change. Confirm with the facility before you travel or pay. A longer explanation of night access is in the <a href="/guides/need-storage-access-at-night-how-24-hour-storage-really-works/">night-access guide</a>.</p>
+
+  <h2>Adding a city</h2>
+  <p>Each city is one JSON file. The research checklist for a new city lives in the project’s <code>scripts/new-city.md</code> file, so a nightly pass can add one verified page at a time.</p>
+
+  <h2>Contact</h2>
+  <p>For corrections or questions, email <a href="mailto:{{ site.emailContact }}">{{ site.emailContact }}</a>. Storage facilities that want to be listed can use the <a href="/list-your-business/">list your business</a> page.</p>
+</article>
