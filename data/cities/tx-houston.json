@@ -1,0 +1,584 @@
+{
+  "slug": "tx-houston",
+  "city": "Houston",
+  "citySlug": "houston",
+  "state": "TX",
+  "stateName": "Texas",
+  "focus": "Inner Houston: the North Loop, Washington Ave corridor, Montrose and River Oaks edges, Upper Kirby, Highland Village, Midtown, the Museum District, and Old Spanish Trail near the Texas Medical Center",
+  "lastUpdated": "2026-11-20",
+  "intro": "These Houston listings were checked on Public Storage’s own facility pages on November 20, 2026, and cover eleven locations inside the Loop or just off it: North Loop West, the Washington Ave corridor, W Gray and Westheimer near Montrose and River Oaks, Upper Kirby, Highland Village, Midtown, Almeda Rd in the Museum District, and two Old Spanish Trail sites near the Texas Medical Center. We copied published access hours and office hours separately, and we only flag climate control when the facility’s own page lists it. None of these facilities published around-the-clock access hours: three pages show a “24/7 Access Available” badge, but their access-hours tables are 6:00 AM–10:00 PM, and two facilities near Montrose and River Oaks close access at 6:00 PM on weekdays (one at 5:00 PM on weekends). This is a starting sample from one operator, not a citywide inventory; suburbs such as Katy, Sugar Land, Pearland, and The Woodlands are not included yet, and we do not cache live unit prices or vacancy.",
+  "listings": [
+    {
+      "name": "Public Storage — 2100 North Loop West",
+      "area": "North Loop West (I-610), north of the Heights (77018)",
+      "address": "2100 North Loop West, Houston, TX 77018",
+      "phone": "832-460-3817",
+      "website": "https://www.publicstorage.com/self-storage-tx-houston/1970.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-tx-houston/1970.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Vehicle options listed: car storage.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-tx-houston/1970.html"
+        }
+      ],
+      "lastChecked": "2026-11-20",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 4121 Greenbriar St",
+      "area": "Greenbriar St, Upper Kirby area (77098)",
+      "address": "4121 Greenbriar St, Houston, TX 77098",
+      "phone": "832-384-5284",
+      "website": "https://www.publicstorage.com/self-storage-tx-houston/2014.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-tx-houston/2014.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Vehicle options listed: car storage.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-tx-houston/2014.html"
+        }
+      ],
+      "lastChecked": "2026-11-20",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 2006 Westheimer Rd",
+      "area": "Westheimer Rd, east of Shepherd (77098)",
+      "address": "2006 Westheimer Rd, Houston, TX 77098",
+      "phone": "832-384-5261",
+      "website": "https://www.publicstorage.com/self-storage-tx-houston/2046.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-tx-houston/2046.html",
+      "accessHours": {
+        "monday": "6:00 AM – 6:00 PM",
+        "tuesday": "6:00 AM – 6:00 PM",
+        "wednesday": "6:00 AM – 6:00 PM",
+        "thursday": "6:00 AM – 6:00 PM",
+        "friday": "6:00 AM – 6:00 PM",
+        "saturday": "6:00 AM – 6:00 PM",
+        "sunday": "6:00 AM – 6:00 PM",
+        "notes": "Published access hours are 6:00 AM – 6:00 PM daily."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 6:00 PM",
+        "tuesday": "6:00 AM – 6:00 PM",
+        "wednesday": "6:00 AM – 6:00 PM",
+        "thursday": "6:00 AM – 6:00 PM",
+        "friday": "6:00 AM – 6:00 PM",
+        "saturday": "6:00 AM – 6:00 PM",
+        "sunday": "6:00 AM – 6:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Vehicle options listed: car storage.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-tx-houston/2046.html"
+        }
+      ],
+      "lastChecked": "2026-11-20",
+      "hours": {
+        "monday": "6:00 AM – 6:00 PM",
+        "tuesday": "6:00 AM – 6:00 PM",
+        "wednesday": "6:00 AM – 6:00 PM",
+        "thursday": "6:00 AM – 6:00 PM",
+        "friday": "6:00 AM – 6:00 PM",
+        "saturday": "6:00 AM – 6:00 PM",
+        "sunday": "6:00 AM – 6:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 1419 W Gray St",
+      "area": "W Gray St near Shepherd (77019)",
+      "address": "1419 W Gray St, Houston, TX 77019",
+      "phone": "832-460-3844",
+      "website": "https://www.publicstorage.com/self-storage-tx-houston/2068.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-tx-houston/2068.html",
+      "accessHours": {
+        "monday": "6:00 AM – 6:00 PM",
+        "tuesday": "6:00 AM – 6:00 PM",
+        "wednesday": "6:00 AM – 6:00 PM",
+        "thursday": "6:00 AM – 6:00 PM",
+        "friday": "6:00 AM – 6:00 PM",
+        "saturday": "6:00 AM – 5:00 PM",
+        "sunday": "6:00 AM – 5:00 PM",
+        "notes": "Published access hours are 6:00 AM–6:00 PM Monday–Friday and 6:00 AM–5:00 PM Saturday–Sunday."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 6:00 PM",
+        "tuesday": "6:00 AM – 6:00 PM",
+        "wednesday": "6:00 AM – 6:00 PM",
+        "thursday": "6:00 AM – 6:00 PM",
+        "friday": "6:00 AM – 6:00 PM",
+        "saturday": "6:00 AM – 5:00 PM",
+        "sunday": "6:00 AM – 5:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” The page lists a property manager living on-site. Vehicle options listed: boat storage, car storage, RV storage.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-tx-houston/2068.html"
+        }
+      ],
+      "lastChecked": "2026-11-20",
+      "hours": {
+        "monday": "6:00 AM – 6:00 PM",
+        "tuesday": "6:00 AM – 6:00 PM",
+        "wednesday": "6:00 AM – 6:00 PM",
+        "thursday": "6:00 AM – 6:00 PM",
+        "friday": "6:00 AM – 6:00 PM",
+        "saturday": "6:00 AM – 5:00 PM",
+        "sunday": "6:00 AM – 5:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 2405 Jackson Street",
+      "area": "Jackson St, Midtown (77004)",
+      "address": "2405 Jackson Street, Houston, TX 77004",
+      "phone": "713-364-0816",
+      "website": "https://www.publicstorage.com/self-storage-tx-houston/2502.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-tx-houston/2502.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-tx-houston/2502.html"
+        }
+      ],
+      "lastChecked": "2026-11-20",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 3106 Old Spanish Trail",
+      "area": "Old Spanish Trail near the Texas Medical Center (77054)",
+      "address": "3106 Old Spanish Trail, Houston, TX 77054",
+      "phone": "281-870-4360",
+      "website": "https://www.publicstorage.com/self-storage-tx-houston/5654.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-tx-houston/5654.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "Published access hours are 6:00 AM – 10:00 PM daily."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.”",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-tx-houston/5654.html"
+        }
+      ],
+      "lastChecked": "2026-11-20",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 3703 Westheimer Blvd",
+      "area": "Westheimer, Highland Village area (77027)",
+      "address": "3703 Westheimer Blvd, Houston, TX 77027",
+      "phone": "832-390-4032",
+      "website": "https://www.publicstorage.com/self-storage-tx-houston/6082.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-tx-houston/6082.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "Published access hours are 6:00 AM – 10:00 PM daily."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Vehicle options listed: car storage.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-tx-houston/6082.html"
+        }
+      ],
+      "lastChecked": "2026-11-20",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 224 W Gray St",
+      "area": "W Gray St, Fourth Ward / Midtown edge (77019)",
+      "address": "224 W Gray St, Houston, TX 77019",
+      "phone": "832-781-2594",
+      "website": "https://www.publicstorage.com/self-storage-tx-houston/7129.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-tx-houston/7129.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "Published access hours are 6:00 AM – 10:00 PM daily."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” The page lists a property manager living on-site.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-tx-houston/7129.html"
+        }
+      ],
+      "lastChecked": "2026-11-20",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 5503 Almeda Rd",
+      "area": "Almeda Rd, Museum District / Third Ward (77004)",
+      "address": "5503 Almeda Rd, Houston, TX 77004",
+      "phone": "832-781-2591",
+      "website": "https://www.publicstorage.com/self-storage-tx-houston/7130.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-tx-houston/7130.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "Published access hours are 6:00 AM – 10:00 PM daily."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” The page lists a property manager living on-site.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-tx-houston/7130.html"
+        }
+      ],
+      "lastChecked": "2026-11-20",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 3770 Center St",
+      "area": "Center St, Washington Ave corridor (77007)",
+      "address": "3770 Center St, Houston, TX 77007",
+      "phone": "832-781-2589",
+      "website": "https://www.publicstorage.com/self-storage-tx-houston/7132.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-tx-houston/7132.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "Published access hours are 6:00 AM – 10:00 PM daily."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.”",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-tx-houston/7132.html"
+        }
+      ],
+      "lastChecked": "2026-11-20",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    },
+    {
+      "name": "Public Storage — 2915 Old Spanish Trail",
+      "area": "Old Spanish Trail near the Texas Medical Center (77054)",
+      "address": "2915 Old Spanish Trail, Houston, TX 77054",
+      "phone": "832-781-2588",
+      "website": "https://www.publicstorage.com/self-storage-tx-houston/7133.html",
+      "bookingUrl": "https://www.publicstorage.com/self-storage-tx-houston/7133.html",
+      "accessHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM",
+        "notes": "Published access hours are 6:00 AM – 10:00 PM daily."
+      },
+      "officeHours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "flags": {
+        "open24Hours": false,
+        "climateControl": true,
+        "monthToMonth": true,
+        "deliveriesAccepted": false,
+        "extendedAccessOnRequest": false
+      },
+      "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Vehicle options listed: car storage.",
+      "sources": [
+        {
+          "label": "Public Storage facility page",
+          "url": "https://www.publicstorage.com/self-storage-tx-houston/7133.html"
+        }
+      ],
+      "lastChecked": "2026-11-20",
+      "hours": {
+        "monday": "6:00 AM – 10:00 PM",
+        "tuesday": "6:00 AM – 10:00 PM",
+        "wednesday": "6:00 AM – 10:00 PM",
+        "thursday": "6:00 AM – 10:00 PM",
+        "friday": "6:00 AM – 10:00 PM",
+        "saturday": "6:00 AM – 10:00 PM",
+        "sunday": "6:00 AM – 10:00 PM"
+      },
+      "category": "storage"
+    }
+  ]
+}
