@@ -1,0 +1,532 @@
+{
+ "slug": "ga-atlanta",
+ "city": "Atlanta",
+ "citySlug": "atlanta",
+ "state": "GA",
+ "stateName": "Georgia",
+ "focus": "Intown Atlanta: Downtown, Virginia-Highland, Morningside and Lindbergh, Cheshire Bridge Rd, Buford Hwy, Druid Hills, West Midtown, the Westside, and Memorial Dr east of Downtown",
+ "lastUpdated": "2026-11-21",
+ "intro": "These Atlanta listings were checked on Public Storage’s own facility pages on November 21, 2026, and cover ten locations inside the city: Downtown near John Wesley Dobbs Ave, Virginia-Highland, Monroe Dr near Morningside, Chantilly Dr off Cheshire Bridge, Buford Hwy, Briarcliff Rd in Druid Hills, two West Midtown sites, Donald Lee Hollowell Pkwy on the Westside, and Memorial Dr near Reynoldstown. We copied published access hours and office hours separately, and we only flag climate control when the facility’s own page lists it. None of these facilities published around-the-clock access hours: three pages show a “24/7 Access Available” badge, but their access-hours tables are 6:00 AM–10:00 PM, and two facilities (Downtown and the Westside) close access at 6:00 PM on weekdays and 5:00 PM on weekends. This is a starting sample from one operator, not a citywide inventory; suburbs such as Decatur, Sandy Springs, Marietta, and Smyrna are not included yet, and we do not cache live unit prices or vacancy.",
+ "listings": [
+  {
+   "name": "Public Storage — 134 John Wesley Dobbs Ave NE",
+   "area": "John Wesley Dobbs Ave, Downtown / Old Fourth Ward edge (30303)",
+   "address": "134 John Wesley Dobbs Ave NE, Atlanta, GA 30303",
+   "phone": "678-942-6459",
+   "website": "https://www.publicstorage.com/self-storage-ga-atlanta/721.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ga-atlanta/721.html",
+   "accessHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM",
+    "notes": "Published access hours are 6:00 AM–6:00 PM Monday–Friday and 6:00 AM–5:00 PM Saturday and Sunday."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” The page lists a property manager living on-site.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ga-atlanta/721.html"
+    }
+   ],
+   "lastChecked": "2026-11-21",
+   "hours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 597 Cooledge Ave NE",
+   "area": "Cooledge Ave, Virginia-Highland / Poncey-Highland (30306)",
+   "address": "597 Cooledge Ave NE, Atlanta, GA 30306",
+   "phone": "943-245-8604",
+   "website": "https://www.publicstorage.com/self-storage-ga-atlanta/6443.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ga-atlanta/6443.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ga-atlanta/6443.html"
+    }
+   ],
+   "lastChecked": "2026-11-21",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2115 Monroe Drive NE",
+   "area": "Monroe Dr, Morningside / Lindbergh (30324)",
+   "address": "2115 Monroe Drive NE, Atlanta, GA 30324",
+   "phone": "678-951-8367",
+   "website": "https://www.publicstorage.com/self-storage-ga-atlanta/1609.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ga-atlanta/1609.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Vehicle options listed: boat storage, car storage, rv storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ga-atlanta/1609.html"
+    }
+   ],
+   "lastChecked": "2026-11-21",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2519 Chantilly Drive",
+   "area": "Chantilly Dr, off Cheshire Bridge Rd (30324)",
+   "address": "2519 Chantilly Drive, Atlanta, GA 30324",
+   "phone": "678-942-6445",
+   "website": "https://www.publicstorage.com/self-storage-ga-atlanta/643.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ga-atlanta/643.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-control storage among this facility’s features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ga-atlanta/643.html"
+    }
+   ],
+   "lastChecked": "2026-11-21",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2719 Buford Hwy NE",
+   "area": "Buford Hwy, Lindbergh / Brookhaven edge (30324)",
+   "address": "2719 Buford Hwy NE, Atlanta, GA 30324",
+   "phone": "404-884-8371",
+   "website": "https://www.publicstorage.com/self-storage-ga-atlanta/6331.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ga-atlanta/6331.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.”",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ga-atlanta/6331.html"
+    }
+   ],
+   "lastChecked": "2026-11-21",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2080 Briarcliff Road NE",
+   "area": "Briarcliff Rd, Druid Hills (30329)",
+   "address": "2080 Briarcliff Road NE, Atlanta, GA 30329",
+   "phone": "404-418-7871",
+   "website": "https://www.publicstorage.com/self-storage-ga-atlanta/348.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ga-atlanta/348.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Vehicle options listed: boat storage, car storage, rv storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ga-atlanta/348.html"
+    }
+   ],
+   "lastChecked": "2026-11-21",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 1506 Howell Mill Road NW",
+   "area": "Howell Mill Rd, West Midtown (30318)",
+   "address": "1506 Howell Mill Road NW, Atlanta, GA 30318",
+   "phone": "404-857-2940",
+   "website": "https://www.publicstorage.com/self-storage-ga-atlanta/1602.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ga-atlanta/1602.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.”",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ga-atlanta/1602.html"
+    }
+   ],
+   "lastChecked": "2026-11-21",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 1387 Northside Drive",
+   "area": "Northside Dr, West Midtown / Berkeley Park (30318)",
+   "address": "1387 Northside Drive, Atlanta, GA 30318",
+   "phone": "678-942-6449",
+   "website": "https://www.publicstorage.com/self-storage-ga-atlanta/611.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ga-atlanta/611.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-control storage among this facility’s features and publishes “All Rentals Month to Month.” The page lists a property manager living on-site. Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ga-atlanta/611.html"
+    }
+   ],
+   "lastChecked": "2026-11-21",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 647 Donald Lee Hollowell Pkwy NW",
+   "area": "Donald Lee Hollowell Pkwy, English Avenue / Westside (30318)",
+   "address": "647 Donald Lee Hollowell Pkwy NW, Atlanta, GA 30318",
+   "phone": "404-857-3843",
+   "website": "https://www.publicstorage.com/self-storage-ga-atlanta/2290.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ga-atlanta/2290.html",
+   "accessHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM",
+    "notes": "Published access hours are 6:00 AM–6:00 PM Monday–Friday and 6:00 AM–5:00 PM Saturday and Sunday."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ga-atlanta/2290.html"
+    }
+   ],
+   "lastChecked": "2026-11-21",
+   "hours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 1067 Memorial Drive",
+   "area": "Memorial Dr, Reynoldstown / Kirkwood (30316)",
+   "address": "1067 Memorial Drive, Atlanta, GA 30316",
+   "phone": "678-942-6458",
+   "website": "https://www.publicstorage.com/self-storage-ga-atlanta/593.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ga-atlanta/593.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-control storage among this facility’s features and publishes “All Rentals Month to Month.” Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ga-atlanta/593.html"
+    }
+   ],
+   "lastChecked": "2026-11-21",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  }
+ ]
+}
