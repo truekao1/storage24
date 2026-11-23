@@ -1,0 +1,699 @@
+{
+ "slug": "dc-washington",
+ "city": "Washington",
+ "citySlug": "washington",
+ "state": "DC",
+ "stateName": "District of Columbia",
+ "focus": "Inside the District: U Street and Adams Morgan, Petworth, Brookland, Eckington and NoMa, Ivy City and Trinidad, Langdon on New York Ave and Bladensburg Rd, and South Capitol St near Navy Yard",
+ "lastUpdated": "2026-11-22",
+ "intro": "These Washington, DC listings were checked on the operators’ own facility pages on November 22, 2026, and cover thirteen facilities inside the District from Public Storage, CubeSmart, and Extra Space Storage — mostly in Northeast DC plus U Street, Adams Morgan, Petworth, and South Capitol St near Navy Yard. We copied published access hours and office hours separately, and we only flag climate control, month-to-month leases, and deliveries when the facility’s own page says so. None of these facilities published around-the-clock access hours: most open the gate 6:00 AM–10:00 PM daily, the two Public Storage sites close access at 6:00 PM on weekdays and 5:00 PM on weekends, and one Extra Space facility in Brookland says 24/7 access is available by asking the site manager. This is a starting sample, not a citywide inventory; nearby Arlington, Alexandria, Silver Spring, and other Maryland and Virginia suburbs are not included yet, and we do not cache live unit prices or vacancy.",
+ "listings": [
+  {
+   "name": "Public Storage — 1230 S Capitol Street SE",
+   "area": "South Capitol St SE, near Navy Yard / Buzzard Point (20003)",
+   "address": "1230 S Capitol Street SE, Washington, DC 20003",
+   "phone": "202-644-8267",
+   "website": "https://www.publicstorage.com/self-storage-dc-washington/1081.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-dc-washington/1081.html",
+   "accessHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM",
+    "notes": "Published access hours are 6:00 AM–6:00 PM Monday–Friday and 6:00 AM–5:00 PM Saturday and Sunday."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” The page lists a property manager living on-site. Access closes earlier here than at most DC facilities on this page.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-dc-washington/1081.html"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 1618 Bladensburg Road NE",
+   "area": "Bladensburg Rd NE, near Trinidad / Carver Langston (20002)",
+   "address": "1618 Bladensburg Road NE, Washington, DC 20002",
+   "phone": "202-644-8299",
+   "website": "https://www.publicstorage.com/self-storage-dc-washington/2195.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-dc-washington/2195.html",
+   "accessHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM",
+    "notes": "Published access hours are 6:00 AM–6:00 PM Monday–Friday and 6:00 AM–5:00 PM Saturday and Sunday."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Access closes earlier here than at most DC facilities on this page.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-dc-washington/2195.html"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "CubeSmart — 175 R St NE",
+   "area": "Eckington / near New York Ave and Rhode Island Ave NE (20002)",
+   "address": "175 R St NE, Washington, DC 20002",
+   "phone": "(202) 529-7867",
+   "website": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/1397.html",
+   "bookingUrl": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/1397.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily (the page also notes access is open on Thanksgiving). The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "Closed",
+    "notes": "Office is published as closed Sunday and on Thanksgiving."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists month-to-month leases among store amenities, lists climate-controlled units, and says this CubeSmart accepts deliveries. It also lists on-site workstations and an SML moving crew.",
+   "sources": [
+    {
+     "label": "CubeSmart facility page",
+     "url": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/1397.html"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "CubeSmart — 645 Taylor St NE",
+   "area": "Brookland area, Taylor St NE (20017)",
+   "address": "645 Taylor St NE, Washington, DC 20017",
+   "phone": "(202) 529-2000",
+   "website": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/3224.html",
+   "bookingUrl": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/3224.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily (the page also notes access is open on Thanksgiving). The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "Closed",
+    "notes": "Office is published as closed Sunday and on Thanksgiving."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists month-to-month leases among store amenities, lists climate-controlled units, and says this CubeSmart accepts deliveries. It also lists a resident manager and outside parking.",
+   "sources": [
+    {
+     "label": "CubeSmart facility page",
+     "url": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/3224.html"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "CubeSmart — 1701 Florida Ave NW",
+   "area": "Adams Morgan / Dupont Circle edge, Florida Ave NW (20009)",
+   "address": "1701 Florida Ave NW, Washington, DC 20009",
+   "phone": "(202) 559-6205",
+   "website": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/3438.html",
+   "bookingUrl": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/3438.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily (the page also notes access is open on Thanksgiving). The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "Closed",
+    "notes": "Office is published as closed Sunday and on Thanksgiving."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists month-to-month leases among store amenities, lists climate-controlled units, and says this CubeSmart accepts deliveries. It also lists RV storage and dollies/handcarts.",
+   "sources": [
+    {
+     "label": "CubeSmart facility page",
+     "url": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/3438.html"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "CubeSmart — 1850 New York Ave NE",
+   "area": "Langdon, New York Ave NE (20002)",
+   "address": "1850 New York Ave NE, Washington, DC 20002",
+   "phone": "(202) 832-1420",
+   "website": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/3711.html",
+   "bookingUrl": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/3711.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily (the page also notes access is open on Thanksgiving). The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "Closed",
+    "notes": "Office is published as closed Sunday and on Thanksgiving."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists month-to-month leases among store amenities, lists climate-controlled units, and says this CubeSmart accepts deliveries. It also lists a resident manager and says a Penske truck-rental agent is on-site.",
+   "sources": [
+    {
+     "label": "CubeSmart facility page",
+     "url": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/3711.html"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "CubeSmart — 1200 Upshur St NW",
+   "area": "Petworth, Upshur St NW (20011)",
+   "address": "1200 Upshur St NW, Washington, DC 20011",
+   "phone": "(202) 541-1555",
+   "website": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/427.html",
+   "bookingUrl": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/427.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily (the page also notes access is open on Thanksgiving). The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "Closed",
+    "notes": "Office is published as closed Sunday and on Thanksgiving."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": false,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-controlled units and says this CubeSmart accepts deliveries. It lists “Monthly Leases” rather than the phrase month-to-month, so we left that flag off; it also lists a resident manager and moving labor assistance.",
+   "sources": [
+    {
+     "label": "CubeSmart facility page",
+     "url": "https://www.cubesmart.com/district-of-columbia-self-storage/washington-self-storage/427.html"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Extra Space Storage — 1420 U St NW",
+   "area": "U Street / 14th St NW, near Logan Circle (20009)",
+   "address": "1420 U St NW, Washington, DC 20009",
+   "phone": "(202) 667-6333",
+   "website": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/501874/",
+   "bookingUrl": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/501874/",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:00 AM – 5:30 PM",
+    "sunday": "10:00 AM – 2:00 PM",
+    "notes": "Office hours from the facility page. Phone shown is the facility number in the page’s company details; the page lists (202) 763-5409 as the current-customer line."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": false,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-controlled units. It lists a drive-in building, covered loading bay, and elevators. We did not find a month-to-month statement on this facility’s page, so that flag is off.",
+   "sources": [
+    {
+     "label": "Extra Space Storage facility page",
+     "url": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/501874/"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Extra Space Storage — 72 Florida Ave NE",
+   "area": "Eckington / NoMa, Florida Ave NE at New York Ave (20002)",
+   "address": "72 Florida Ave NE, Washington, DC 20002",
+   "phone": "(202) 921-4342",
+   "website": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/1000001512/",
+   "bookingUrl": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/1000001512/",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:00 AM – 5:30 PM",
+    "sunday": "10:00 AM – 2:00 PM",
+    "notes": "Office hours from the facility page. Phone shown is the facility number in the page’s company details; the page lists (202) 921-4343 as the current-customer line."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-controlled units. The page’s FAQ says leases are month-to-month. It lists a loading dock, covered loading bay, and says it accommodates trucks larger than 20 feet.",
+   "sources": [
+    {
+     "label": "Extra Space Storage facility page",
+     "url": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/1000001512/"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Extra Space Storage — 2800 8th St NE",
+   "area": "Brookland / Edgewood, 8th St NE at Franklin St (20017)",
+   "address": "2800 8th St NE, Washington, DC 20017",
+   "phone": "(202) 866-6500",
+   "website": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/1000000871/",
+   "bookingUrl": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/1000000871/",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily. The page also says “Extended access hours are standard with 24/7 access available - ask site manager for details.” The published table is not 24 hours."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:00 AM – 5:30 PM",
+    "sunday": "10:00 AM – 2:00 PM",
+    "notes": "Office hours from the facility page. Phone shown is the facility number in the page’s company details; the page lists (202) 302-5359 as the current-customer line."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": true
+   },
+   "visitNotes": "The facility page lists climate-controlled units. The page mentions month-to-month storage options for renters, lists covered parking and a covered loading bay, and says it accommodates trucks larger than 20 feet. It lists indoor and outdoor vehicle storage.",
+   "sources": [
+    {
+     "label": "Extra Space Storage facility page",
+     "url": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/1000000871/"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Extra Space Storage — 1250 Taylor St NW",
+   "area": "Petworth, Taylor St NW at 13th St (20011)",
+   "address": "1250 Taylor St NW, Washington, DC 20011",
+   "phone": "(202) 769-1451",
+   "website": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/1000001186/",
+   "bookingUrl": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/1000001186/",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:00 AM – 5:30 PM",
+    "sunday": "10:00 AM – 2:00 PM",
+    "notes": "Office hours from the facility page. Phone shown is the facility number in the page’s company details; the page lists (202) 769-1420 as the current-customer line."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-controlled units. The page’s FAQ says leases are month-to-month. It lists drive-up units, a covered loading bay, and outdoor vehicle parking.",
+   "sources": [
+    {
+     "label": "Extra Space Storage facility page",
+     "url": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/1000001186/"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Extra Space Storage — 1240 Mt Olivet Rd NE",
+   "area": "Ivy City / Trinidad, Mt Olivet Rd NE (20002)",
+   "address": "1240 Mt Olivet Rd NE, Washington, DC 20002",
+   "phone": "(202) 788-2978",
+   "website": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/8847/",
+   "bookingUrl": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/8847/",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:00 AM – 5:30 PM",
+    "sunday": "10:00 AM – 2:00 PM",
+    "notes": "Office hours from the facility page. Phone shown is the facility number in the page’s company details; the page lists (202) 768-9995 as the current-customer line."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-controlled units. The page’s FAQ says leases are month-to-month. It lists a loading dock and covered loading bay and says cylinder locks are required for units; deliveries are not listed.",
+   "sources": [
+    {
+     "label": "Extra Space Storage facility page",
+     "url": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/8847/"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Extra Space Storage — 2000 Bladensburg Rd NE",
+   "area": "Langdon / Gateway, Bladensburg Rd NE at Queens Chapel Rd (20018)",
+   "address": "2000 Bladensburg Rd NE, Washington, DC 20018",
+   "phone": "(202) 739-2909",
+   "website": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/4127/",
+   "bookingUrl": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/4127/",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:00 AM – 5:30 PM",
+    "sunday": "10:00 AM – 2:00 PM",
+    "notes": "Office hours from the facility page. Phone shown is the facility number in the page’s company details; the page lists (703) 202-5467 as the current-customer line."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-controlled units. The page mentions month-to-month storage, a covered heated loading bay, and says cylinder locks are required. Its FAQ says only “select” facilities accept deliveries, so we left that flag off.",
+   "sources": [
+    {
+     "label": "Extra Space Storage facility page",
+     "url": "https://www.extraspace.com/storage/facilities/us/district_of_columbia/washington/4127/"
+    }
+   ],
+   "lastChecked": "2026-11-22",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  }
+ ]
+}
