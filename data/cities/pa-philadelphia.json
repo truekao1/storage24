@@ -1,0 +1,532 @@
+{
+ "slug": "pa-philadelphia",
+ "city": "Philadelphia",
+ "citySlug": "philadelphia",
+ "state": "PA",
+ "stateName": "Pennsylvania",
+ "focus": "Inside the city: Northeast Philadelphia (Tacony, Lawncrest, Fox Chase), Bridesburg, Port Richmond, Juniata, Logan, Roxborough, South Philadelphia near the stadiums, and Eastwick near the airport",
+ "lastUpdated": "2026-11-23",
+ "intro": "These Philadelphia listings were checked on Public Storage’s own facility pages on November 23, 2026, and cover all ten Public Storage locations the operator lists for the city of Philadelphia — mostly in the Northeast and river wards, plus Roxborough, Logan, South Philadelphia near the stadiums, and Eastwick near the airport. We copied published access hours and office hours separately, and we only flag climate control when the facility’s own page lists it (7 of the ten do). None of these facilities published around-the-clock access hours: 8 pages show a “24/7 Access Available” badge, but every access-hours table is 6:00 AM–10:00 PM daily, so we recorded the table and noted the badge. This is a starting sample from one operator, not a citywide inventory; none of the ten is in Center City, other operators such as CubeSmart and Extra Space are not included yet, and suburbs such as Upper Darby, Cherry Hill, and King of Prussia are not covered. We do not cache live unit prices or vacancy.",
+ "listings": [
+  {
+   "name": "Public Storage — 6301 Tacony Street",
+   "area": "Tacony Street, Tacony / Wissinoming near I-95 (19135)",
+   "address": "6301 Tacony Street, Philadelphia, PA 19135",
+   "phone": "267-888-6914",
+   "website": "https://www.publicstorage.com/self-storage-pa-philadelphia/1002.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-pa-philadelphia/1002.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility. The page’s description text separately says access is available from 6:00 AM to 9:00 PM daily, which is shorter than the table; confirm with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-pa-philadelphia/1002.html"
+    }
+   ],
+   "lastChecked": "2026-11-23",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 6225 Oxford Ave",
+   "area": "Oxford Ave, Lawncrest / Northeast Philadelphia (19111)",
+   "address": "6225 Oxford Ave, Philadelphia, PA 19111",
+   "phone": "267-888-6915",
+   "website": "https://www.publicstorage.com/self-storage-pa-philadelphia/1042.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-pa-philadelphia/1042.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-pa-philadelphia/1042.html"
+    }
+   ],
+   "lastChecked": "2026-11-23",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 7000 Lindbergh Blvd",
+   "area": "Lindbergh Blvd, Eastwick near PHL airport (19153)",
+   "address": "7000 Lindbergh Blvd, Philadelphia, PA 19153",
+   "phone": "215-809-3582",
+   "website": "https://www.publicstorage.com/self-storage-pa-philadelphia/1801.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-pa-philadelphia/1801.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-pa-philadelphia/1801.html"
+    }
+   ],
+   "lastChecked": "2026-11-23",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2345 Castor Ave",
+   "area": "Castor Ave, Port Richmond / Harrowgate (19134)",
+   "address": "2345 Castor Ave, Philadelphia, PA 19134",
+   "phone": "267-908-7161",
+   "website": "https://www.publicstorage.com/self-storage-pa-philadelphia/2265.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-pa-philadelphia/2265.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-pa-philadelphia/2265.html"
+    }
+   ],
+   "lastChecked": "2026-11-23",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2351 S Swanson St",
+   "area": "S Swanson St, South Philadelphia near the stadiums (19148)",
+   "address": "2351 S Swanson St, Philadelphia, PA 19148",
+   "phone": "215-642-0359",
+   "website": "https://www.publicstorage.com/self-storage-pa-philadelphia/5461.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-pa-philadelphia/5461.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-pa-philadelphia/5461.html"
+    }
+   ],
+   "lastChecked": "2026-11-23",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 533 E Hunting Park Ave",
+   "area": "E Hunting Park Ave, Juniata / Feltonville (19124)",
+   "address": "533 E Hunting Park Ave, Philadelphia, PA 19124",
+   "phone": "267-520-4573",
+   "website": "https://www.publicstorage.com/self-storage-pa-philadelphia/6090.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-pa-philadelphia/6090.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-pa-philadelphia/6090.html"
+    }
+   ],
+   "lastChecked": "2026-11-23",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 840 Cottman Ave",
+   "area": "Cottman Ave, Burholme / Fox Chase (19111)",
+   "address": "840 Cottman Ave, Philadelphia, PA 19111",
+   "phone": "215-995-0184",
+   "website": "https://www.publicstorage.com/self-storage-pa-philadelphia/6302.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-pa-philadelphia/6302.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-pa-philadelphia/6302.html"
+    }
+   ],
+   "lastChecked": "2026-11-23",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 5331 N 10th St",
+   "area": "N 10th St, Logan / Olney (19141)",
+   "address": "5331 N 10th St, Philadelphia, PA 19141",
+   "phone": "215-995-0091",
+   "website": "https://www.publicstorage.com/self-storage-pa-philadelphia/6315.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-pa-philadelphia/6315.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-pa-philadelphia/6315.html"
+    }
+   ],
+   "lastChecked": "2026-11-23",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 7571 Ridge Ave",
+   "area": "Ridge Ave, Roxborough / Andorra (19128)",
+   "address": "7571 Ridge Ave, Philadelphia, PA 19128",
+   "phone": "215-809-3671",
+   "website": "https://www.publicstorage.com/self-storage-pa-philadelphia/934.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-pa-philadelphia/934.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-pa-philadelphia/934.html"
+    }
+   ],
+   "lastChecked": "2026-11-23",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2190 Wheatsheaf Lane",
+   "area": "Wheatsheaf Lane, Bridesburg (19137)",
+   "address": "2190 Wheatsheaf Lane, Philadelphia, PA 19137",
+   "phone": "267-888-6898",
+   "website": "https://www.publicstorage.com/self-storage-pa-philadelphia/961.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-pa-philadelphia/961.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM–10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Vehicle options listed: car storage.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-pa-philadelphia/961.html"
+    }
+   ],
+   "lastChecked": "2026-11-23",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  }
+ ]
+}
