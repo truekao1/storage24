@@ -1,0 +1,532 @@
+{
+ "slug": "fl-miami",
+ "city": "Miami",
+ "citySlug": "miami",
+ "state": "FL",
+ "stateName": "Florida",
+ "focus": "Inside the city of Miami: Downtown and Overtown, Edgewater, Wynwood and northwest Miami, Little Havana along Calle Ocho, and the Coconut Grove side of US-1",
+ "lastUpdated": "2026-11-24",
+ "intro": "These Miami listings were checked on Public Storage’s own facility pages on November 24, 2026, and cover all ten Public Storage locations the operator lists for the city of Miami — Downtown and Overtown, Edgewater, Wynwood, northwest Miami along NW 21st and NW 38th Streets, Little Havana, and the Coconut Grove side of US-1. We copied published access hours and office hours separately, and we only flag climate control when the facility’s own page lists it (9 of the ten do). None of these facilities published around-the-clock access hours: 6 pages show a “24/7 Access Available” badge, but eight access-hours tables are 6:00 AM–10:00 PM daily and the two remaining downtown and Little Havana tables close at 6:00 PM on weekdays and 5:00 PM on weekends, so we recorded the tables and noted the badge. This is a starting sample from one operator, not a citywide inventory; other operators such as CubeSmart and Extra Space are not included yet, and Miami Beach, Coral Gables, Hialeah, Doral, Kendall, and the rest of Miami-Dade are not covered. We do not cache live unit prices or vacancy.",
+ "listings": [
+  {
+   "name": "Public Storage — 2851 SW 31st Ave",
+   "area": "SW 31st Ave off US-1, north of Coral Gables near Coconut Grove (33133)",
+   "address": "2851 SW 31st Ave, Miami, FL 33133",
+   "phone": "786-600-2017",
+   "website": "https://www.publicstorage.com/self-storage-fl-miami/1580.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-fl-miami/1580.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Vehicle options listed: car storage. Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-fl-miami/1580.html"
+    }
+   ],
+   "lastChecked": "2026-11-24",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2336 Biscayne Blvd",
+   "area": "Biscayne Blvd near NE 23rd Street, Edgewater (33137)",
+   "address": "2336 Biscayne Blvd, Miami, FL 33137",
+   "phone": "786-600-2036",
+   "website": "https://www.publicstorage.com/self-storage-fl-miami/1642.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-fl-miami/1642.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-fl-miami/1642.html"
+    }
+   ],
+   "lastChecked": "2026-11-24",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 300 NW 36th St",
+   "area": "NW 36th St near I-95 and I-195, Wynwood (33127)",
+   "address": "300 NW 36th St, Miami, FL 33127",
+   "phone": "305-203-0022",
+   "website": "https://www.publicstorage.com/self-storage-fl-miami/2613.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-fl-miami/2613.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-fl-miami/2613.html"
+    }
+   ],
+   "lastChecked": "2026-11-24",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 3460 SW 8th St",
+   "area": "SW 8th St (Calle Ocho) between 32nd Ave and Douglas Road, Little Havana (33135)",
+   "address": "3460 SW 8th St, Miami, FL 33135",
+   "phone": "305-702-2095",
+   "website": "https://www.publicstorage.com/self-storage-fl-miami/2632.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-fl-miami/2632.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-fl-miami/2632.html"
+    }
+   ],
+   "lastChecked": "2026-11-24",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2445 NW 38th Street",
+   "area": "NW 38th Street near NW 27th Avenue, northwest Miami (33142)",
+   "address": "2445 NW 38th Street, Miami, FL 33142",
+   "phone": "786-600-2046",
+   "website": "https://www.publicstorage.com/self-storage-fl-miami/483.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-fl-miami/483.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Vehicle options listed: car storage. Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-fl-miami/483.html"
+    }
+   ],
+   "lastChecked": "2026-11-24",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 151 NW 5th Street",
+   "area": "NW 5th Street near NW 1st Avenue off I-95, Downtown / Overtown (33128)",
+   "address": "151 NW 5th Street, Miami, FL 33128",
+   "phone": "786-600-2009",
+   "website": "https://www.publicstorage.com/self-storage-fl-miami/485.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-fl-miami/485.html",
+   "accessHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM–6:00 PM Monday–Friday and 6:00 AM–5:00 PM Saturday–Sunday; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” The page lists a property manager living on-site. Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-fl-miami/485.html"
+    }
+   ],
+   "lastChecked": "2026-11-24",
+   "hours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2990 SW 28th Lane",
+   "area": "SW 28th Lane off US-1 near the 27th Avenue exit, Coconut Grove (33133)",
+   "address": "2990 SW 28th Lane, Miami, FL 33133",
+   "phone": "786-600-2012",
+   "website": "https://www.publicstorage.com/self-storage-fl-miami/509.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-fl-miami/509.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-fl-miami/509.html"
+    }
+   ],
+   "lastChecked": "2026-11-24",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 91 SW 3rd St",
+   "area": "SW 3rd St off I-95 near Government Center and the Miami River, Downtown (33130)",
+   "address": "91 SW 3rd St, Miami, FL 33130",
+   "phone": "305-539-9374",
+   "website": "https://www.publicstorage.com/self-storage-fl-miami/5314.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-fl-miami/5314.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-fl-miami/5314.html"
+    }
+   ],
+   "lastChecked": "2026-11-24",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2190 SW 8th St",
+   "area": "SW 8th St (Calle Ocho), Little Havana (33135)",
+   "address": "2190 SW 8th St, Miami, FL 33135",
+   "phone": "305-874-0999",
+   "website": "https://www.publicstorage.com/self-storage-fl-miami/5316.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-fl-miami/5316.html",
+   "accessHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM–6:00 PM Monday–Friday and 6:00 AM–5:00 PM Saturday–Sunday; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-fl-miami/5316.html"
+    }
+   ],
+   "lastChecked": "2026-11-24",
+   "hours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 760 NW 21st St",
+   "area": "NW 21st St west of Wynwood, northwest Miami (33127)",
+   "address": "760 NW 21st St, Miami, FL 33127",
+   "phone": "305-990-0682",
+   "website": "https://www.publicstorage.com/self-storage-fl-miami/6282.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-fl-miami/6282.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-fl-miami/6282.html"
+    }
+   ],
+   "lastChecked": "2026-11-24",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  }
+ ]
+}
