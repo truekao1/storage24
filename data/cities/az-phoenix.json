@@ -1,0 +1,532 @@
+{
+ "slug": "az-phoenix",
+ "city": "Phoenix",
+ "citySlug": "phoenix",
+ "state": "AZ",
+ "stateName": "Arizona",
+ "focus": "Central Phoenix: east of Downtown near I-10, the Camelback East corridor (16th St, 24th St, Thomas Rd, Camelback Rd), and the I-17 Black Canyon corridor on the west side",
+ "lastUpdated": "2026-11-25",
+ "intro": "These Phoenix listings were checked on Public Storage’s own facility pages on November 25, 2026, and cover the ten Public Storage locations the operator’s Phoenix city page lists: east of Downtown along Jefferson and Jackson Streets near I-10, the Camelback East corridor along 16th and 24th Streets, Thomas Road and Camelback Road, and three properties on the west side along the I-17 (Black Canyon Highway) corridor. We copied published access hours and office hours separately, and we only flag climate control when the facility’s own page lists it (9 of the ten do). None of these facilities published around-the-clock access hours: 3 pages show a “24/7 Access Available” badge, but nine access-hours tables are 6:00 AM–10:00 PM daily and the Camelback Road location closes at 6:00 PM on weekdays and 5:00 PM on weekends, so we recorded the tables and noted the badge. This is a starting sample from one operator, not a citywide inventory; other operators such as CubeSmart, Extra Space, and local independents are not included yet, and north Phoenix, Ahwatukee, Laveen, and the surrounding cities (Scottsdale, Tempe, Mesa, Glendale, Chandler) are not covered. We do not cache live unit prices or vacancy.",
+ "listings": [
+  {
+   "name": "Public Storage — 1949 E Camelback Rd #21",
+   "area": "E Camelback Rd near 20th Street, Camelback East / Biltmore area (85016)",
+   "address": "1949 E Camelback Rd #21, Phoenix, AZ 85016",
+   "phone": "602-457-1831",
+   "website": "https://www.publicstorage.com/self-storage-az-phoenix/1679.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-az-phoenix/1679.html",
+   "accessHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM",
+    "notes": "The facility page publishes access hours of 9:30 AM – 6:00 PM Monday–Friday and 9:30 AM – 5:00 PM Saturday–Sunday; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-az-phoenix/1679.html"
+    }
+   ],
+   "lastChecked": "2026-11-25",
+   "hours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 4423 N 24th St",
+   "area": "N 24th St north of Campbell Ave, Camelback East (85016)",
+   "address": "4423 N 24th St, Phoenix, AZ 85016",
+   "phone": "602-603-7837",
+   "website": "https://www.publicstorage.com/self-storage-az-phoenix/5319.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-az-phoenix/5319.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-az-phoenix/5319.html"
+    }
+   ],
+   "lastChecked": "2026-11-25",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2829 E Thomas Road",
+   "area": "E Thomas Rd east of SR-51, Camelback East Village (85016)",
+   "address": "2829 E Thomas Road, Phoenix, AZ 85016",
+   "phone": "602-857-9195",
+   "website": "https://www.publicstorage.com/self-storage-az-phoenix/5407.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-az-phoenix/5407.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-az-phoenix/5407.html"
+    }
+   ],
+   "lastChecked": "2026-11-25",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 841 E Jefferson St",
+   "area": "E Jefferson St near I-10, east of Downtown Phoenix (85034)",
+   "address": "841 E Jefferson St, Phoenix, AZ 85034",
+   "phone": "480-739-5886",
+   "website": "https://www.publicstorage.com/self-storage-az-phoenix/5501.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-az-phoenix/5501.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Vehicle options listed: car storage. Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-az-phoenix/5501.html"
+    }
+   ],
+   "lastChecked": "2026-11-25",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 3325 N 16th St",
+   "area": "N 16th St near Thomas Rd, between SR-51 and Indian School Rd (85016)",
+   "address": "3325 N 16th St, Phoenix, AZ 85016",
+   "phone": "602-932-9065",
+   "website": "https://www.publicstorage.com/self-storage-az-phoenix/6078.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-az-phoenix/6078.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Vehicle options listed: car storage. Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-az-phoenix/6078.html"
+    }
+   ],
+   "lastChecked": "2026-11-25",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 4200 N Black Canyon Hwy",
+   "area": "Black Canyon Hwy (I-17) frontage, Alhambra / Encanto area near Christown Spectrum (85017)",
+   "address": "4200 N Black Canyon Hwy, Phoenix, AZ 85017",
+   "phone": "928-437-7948",
+   "website": "https://www.publicstorage.com/self-storage-az-phoenix/6608.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-az-phoenix/6608.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-control storage among its features and publishes “All Rentals Month to Month.” Vehicle options listed: car storage. Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-az-phoenix/6608.html"
+    }
+   ],
+   "lastChecked": "2026-11-25",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 717 W Pierson St",
+   "area": "W Pierson St off I-17, near Yaple Park and Grand Canyon University area (85013)",
+   "address": "717 W Pierson St, Phoenix, AZ 85013",
+   "phone": "928-437-9154",
+   "website": "https://www.publicstorage.com/self-storage-az-phoenix/6609.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-az-phoenix/6609.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-az-phoenix/6609.html"
+    }
+   ],
+   "lastChecked": "2026-11-25",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 3114 N 24th St",
+   "area": "N 24th St south of Osborn Rd, Camelback East (85016)",
+   "address": "3114 N 24th St, Phoenix, AZ 85016",
+   "phone": "928-437-8177",
+   "website": "https://www.publicstorage.com/self-storage-az-phoenix/6611.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-az-phoenix/6611.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Vehicle options listed: car storage. Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-az-phoenix/6611.html"
+    }
+   ],
+   "lastChecked": "2026-11-25",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 835 E Jackson St",
+   "area": "E Jackson St near I-10, east of Downtown Phoenix (85034)",
+   "address": "835 E Jackson St, Phoenix, AZ 85034",
+   "phone": "928-484-3843",
+   "website": "https://www.publicstorage.com/self-storage-az-phoenix/7718.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-az-phoenix/7718.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-az-phoenix/7718.html"
+    }
+   ],
+   "lastChecked": "2026-11-25",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 2421 N Black Canyon Hwy",
+   "area": "Black Canyon Hwy (I-17) between Thomas Rd and McDowell Rd, west-central Phoenix (85009)",
+   "address": "2421 N Black Canyon Hwy, Phoenix, AZ 85009",
+   "phone": "602-457-1709",
+   "website": "https://www.publicstorage.com/self-storage-az-phoenix/887.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-az-phoenix/887.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. The page lists a property manager living on-site. Vehicle options listed: car storage. Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-az-phoenix/887.html"
+    }
+   ],
+   "lastChecked": "2026-11-25",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  }
+ ]
+}
