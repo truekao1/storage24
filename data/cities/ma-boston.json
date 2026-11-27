@@ -1,0 +1,536 @@
+{
+ "slug": "ma-boston",
+ "city": "Boston",
+ "citySlug": "boston",
+ "state": "MA",
+ "stateName": "Massachusetts",
+ "focus": "Boston proper (South End / Mass Ave, South Boston, Charlestown, East Boston, Brighton) plus nearby Somerville and Everett",
+ "lastUpdated": "2026-11-26",
+ "intro": "These Boston listings were checked on the operators’ own facility pages on November 26, 2026, and cover ten facilities from Public Storage and CubeSmart: inside the city in the South End and Massachusetts Ave corridor, South Boston, Charlestown, East Boston next to Logan Airport, and Brighton, plus three Public Storage locations just over the line in Somerville and Everett. We copied published access hours and office hours separately, and we only flag climate control, month-to-month leases, and deliveries when the facility’s own page says so (all ten list climate-controlled storage; the four CubeSmart pages say they accept deliveries). None of these facilities publish around-the-clock access hours: most gates open 6:00 AM–10:00 PM, the Charlestown CubeSmart closes at 9:00 PM, and the Southampton St Public Storage and Massachusetts Ave CubeSmart keep shorter daytime windows. Four Public Storage pages show a “24/7 Access Available” badge even though their access tables are 6:00 AM–10:00 PM, so we recorded the tables and noted the badge. This is a starting sample, not a citywide inventory; Extra Space Storage, local independents, Dorchester, Jamaica Plain, and Cambridge are not covered yet. We do not cache live unit prices or vacancy.",
+ "listings": [
+  {
+   "name": "Public Storage — 290 Southampton Street",
+   "area": "Southampton St near Massachusetts Ave, within reach of I-93 and I-90 (02118)",
+   "address": "290 Southampton Street, Boston, MA 02118",
+   "phone": "617-655-6456",
+   "website": "https://www.publicstorage.com/self-storage-ma-boston/1520.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ma-boston/1520.html",
+   "accessHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM",
+    "notes": "The facility page publishes access hours of 9:30 AM – 6:00 PM Monday–Friday and 9:30 AM – 5:00 PM Saturday–Sunday; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ma-boston/1520.html"
+    }
+   ],
+   "lastChecked": "2026-11-26",
+   "hours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "CubeSmart — 380 E St",
+   "area": "E St, South Boston (02127)",
+   "address": "380 E St, Boston, MA 02127",
+   "phone": "(617) 268-8900",
+   "website": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/3351.html",
+   "bookingUrl": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/3351.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily (the page notes access is open on Thanksgiving). The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "Closed",
+    "notes": "Office is published as closed on Thanksgiving. Office closed Sunday."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists month-to-month leases, says this CubeSmart accepts deliveries, and lists climate-controlled units. It also lists a bilingual (Spanish-speaking) manager and app-based gate access.",
+   "sources": [
+    {
+     "label": "CubeSmart facility page",
+     "url": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/3351.html"
+    }
+   ],
+   "lastChecked": "2026-11-26",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "CubeSmart — 968 Massachusetts Ave",
+   "area": "Massachusetts Ave, between the South End and Roxbury (02118)",
+   "address": "968 Massachusetts Ave, Boston, MA 02118",
+   "phone": "(617) 541-5600",
+   "website": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/416.html",
+   "bookingUrl": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/416.html",
+   "accessHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "11:00 AM – 3:00 PM",
+    "notes": "Published access hours match the office: 9:30 AM–6:00 PM Monday–Friday, 8:30 AM–5:00 PM Saturday, 11:00 AM–3:00 PM Sunday; closed Thanksgiving. This is one of the shortest access windows on this page. The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "11:00 AM – 3:00 PM",
+    "notes": "Office is published as closed on Thanksgiving."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists month-to-month leases, says deliveries are accepted, and lists climate-controlled units. It also lists a resident manager and outside parking.",
+   "sources": [
+    {
+     "label": "CubeSmart facility page",
+     "url": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/416.html"
+    }
+   ],
+   "lastChecked": "2026-11-26",
+   "hours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "11:00 AM – 3:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "CubeSmart — 50 Terminal St",
+   "area": "Terminal St, Charlestown (02129)",
+   "address": "50 Terminal St, Boston, MA 02129",
+   "phone": "(617) 241-5550",
+   "website": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/5128.html",
+   "bookingUrl": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/5128.html",
+   "accessHours": {
+    "monday": "6:00 AM – 9:00 PM",
+    "tuesday": "6:00 AM – 9:00 PM",
+    "wednesday": "6:00 AM – 9:00 PM",
+    "thursday": "6:00 AM – 9:00 PM",
+    "friday": "6:00 AM – 9:00 PM",
+    "saturday": "6:00 AM – 9:00 PM",
+    "sunday": "6:00 AM – 9:00 PM",
+    "notes": "Published access hours are 6:00 AM–9:00 PM daily. The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "Closed",
+    "notes": "Office is published as closed on Thanksgiving. Office closed Sunday."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists month-to-month leases, says this CubeSmart accepts deliveries, and lists climate-controlled units. It also lists handcarts/dollies, office suites, and studio and band rehearsal spaces for rent.",
+   "sources": [
+    {
+     "label": "CubeSmart facility page",
+     "url": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/5128.html"
+    }
+   ],
+   "lastChecked": "2026-11-26",
+   "hours": {
+    "monday": "6:00 AM – 9:00 PM",
+    "tuesday": "6:00 AM – 9:00 PM",
+    "wednesday": "6:00 AM – 9:00 PM",
+    "thursday": "6:00 AM – 9:00 PM",
+    "friday": "6:00 AM – 9:00 PM",
+    "saturday": "6:00 AM – 9:00 PM",
+    "sunday": "6:00 AM – 9:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "CubeSmart — 150 William F Mcclellan Hwy",
+   "area": "William F McClellan Hwy (Route 1A), East Boston, next to Logan Airport near Wood Island Station (02128)",
+   "address": "150 William F Mcclellan Hwy, Boston, MA 02128",
+   "phone": "(617) 568-0009",
+   "website": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/3143.html",
+   "bookingUrl": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/3143.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM–10:00 PM daily (the page notes access is open on Thanksgiving). The phone number shown is the page’s current-customer line; the page also lists toll-free new-customer numbers."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "8:30 AM – 5:00 PM",
+    "sunday": "Closed",
+    "notes": "Office is published as closed on Thanksgiving. Office closed Sunday."
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists month-to-month leases, says this CubeSmart accepts deliveries, and offers climate-controlled units. It also lists elevator access, handcarts/dollies, and gate and elevator access from the CubeSmart app.",
+   "sources": [
+    {
+     "label": "CubeSmart facility page",
+     "url": "https://www.cubesmart.com/massachusetts-self-storage/boston-self-storage/3143.html"
+    }
+   ],
+   "lastChecked": "2026-11-26",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 156 Lincoln St",
+   "area": "Lincoln St near Cambridge St, Brighton (02135)",
+   "address": "156 Lincoln St, Brighton, MA 02135",
+   "phone": "617-302-9490",
+   "website": "https://www.publicstorage.com/self-storage-ma-brighton/2297.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ma-brighton/2297.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ma-brighton/2297.html"
+    }
+   ],
+   "lastChecked": "2026-11-26",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 145 North Beacon St",
+   "area": "North Beacon St, Brighton (02135)",
+   "address": "145 North Beacon St, Brighton, MA 02135",
+   "phone": "617-380-7337",
+   "website": "https://www.publicstorage.com/self-storage-ma-brighton/7159.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ma-brighton/7159.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily; it does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Vehicle options listed: car storage. Unit types listed: indoor & outdoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ma-brighton/7159.html"
+    }
+   ],
+   "lastChecked": "2026-11-26",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 50 Middlesex Ave",
+   "area": "Middlesex Ave, Somerville, just north of Boston (02145)",
+   "address": "50 Middlesex Ave, Somerville, MA 02145",
+   "phone": "617-682-9156",
+   "website": "https://www.publicstorage.com/self-storage-ma-somerville/2322.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ma-somerville/2322.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ma-somerville/2322.html"
+    }
+   ],
+   "lastChecked": "2026-11-26",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 140 Broadway",
+   "area": "Broadway near Revere Beach Pkwy, Everett, near I-93 and US-1 (02149)",
+   "address": "140 Broadway, Everett, MA 02149",
+   "phone": "617-431-4216",
+   "website": "https://www.publicstorage.com/self-storage-ma-everett/2295.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ma-everett/2295.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ma-everett/2295.html"
+    }
+   ],
+   "lastChecked": "2026-11-26",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  },
+  {
+   "name": "Public Storage — 1901 Revere Beach Pkwy",
+   "area": "Revere Beach Pkwy near Route 1, Everett (02149)",
+   "address": "1901 Revere Beach Pkwy, Everett, MA 02149",
+   "phone": "617-500-8156",
+   "website": "https://www.publicstorage.com/self-storage-ma-everett/5338.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ma-everett/5338.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page also displays a “24/7 Access Available” badge. The published access-hours table is 6:00 AM – 10:00 PM daily. Confirm access with the facility."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” We did not treat the 24/7 badge as published around-the-clock gate hours because the access-hours table is a shorter window. Unit types listed: indoor units.",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ma-everett/5338.html"
+    }
+   ],
+   "lastChecked": "2026-11-26",
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "category": "storage"
+  }
+ ]
+}
