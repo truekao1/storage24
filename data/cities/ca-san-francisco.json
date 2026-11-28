@@ -1,0 +1,660 @@
+{
+ "slug": "ca-san-francisco",
+ "city": "San Francisco",
+ "citySlug": "san-francisco",
+ "state": "CA",
+ "stateName": "California",
+ "focus": "San Francisco city limits: SoMa, the Mission, the Bayview / Bayshore corridor along US-101, Laurel Heights on Geary Blvd, and 19th Avenue near SF State",
+ "lastUpdated": "2026-11-27",
+ "intro": "These San Francisco listings were checked on operator-owned facility pages on November 27, 2026. They cover the eight Public Storage locations on the operator’s San Francisco city page and the four Extra Space Storage facilities inside city limits: SoMa (2nd St, 10th St, Folsom St, S Van Ness Ave, Otis St), the Mission (Treat Ave), the Bayview and Bayshore corridor along US-101 (Evans Ave, Marin St, Cesar Chavez St, Egbert Ave), Laurel Heights on Geary Blvd, and 19th Avenue near SF State. CubeSmart’s San Francisco page says it has no facility in the city. We copied published access hours and office hours separately. None of these facilities published around-the-clock access hours: the longest tables are 6:00 AM – 10:00 PM daily (six locations), the Geary Blvd page shows a “24/7 Access Available” badge beside a 6:00 AM – 10:00 PM table, and Extra Space’s Cesar Chavez St facility says 24/7 access is available by asking the site manager. Several SoMa and Mission locations close at 6:00 PM on weekdays and 5:00 PM on weekends, and the two Extra Space SoMa sites close at 4:00 PM on Sunday. Climate control is flagged only where the facility page lists it (three Public Storage locations), and month-to-month only where the page says so. This is a starting sample from two operators, not a citywide inventory; independents and the rest of the Bay Area (Daly City, South San Francisco, Oakland, the Peninsula) are not covered yet. We do not cache live unit prices or vacancy; fees shown are as listed on the date checked.",
+ "listings": [
+  {
+   "name": "Public Storage — 2090 Evans Ave",
+   "category": "storage",
+   "area": "Evans Ave near Toland St, Bayview / Islais Creek industrial area (94124)",
+   "address": "2090 Evans Ave, San Francisco, CA 94124",
+   "phone": "415-523-7804",
+   "website": "https://www.publicstorage.com/self-storage-ca-san-francisco/1712.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ca-san-francisco/1712.html",
+   "accessHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 6:00 PM Monday–Friday and 6:00 AM – 5:00 PM Saturday–Sunday. It does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "hours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Features listed: Climate Control Storage, Car Storage, Indoor & Outdoor Storage Units, Property Manager Lives On-site.",
+   "feeNotes": "The facility page says all new rentals are subject to a one-time $29 admin fee (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ca-san-francisco/1712.html"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Public Storage — 611 2nd Street",
+   "category": "storage",
+   "area": "2nd St near Brannan St, South Beach / SoMa, a few blocks from Oracle Park (94107)",
+   "address": "611 2nd Street, San Francisco, CA 94107",
+   "phone": "415-523-7775",
+   "website": "https://www.publicstorage.com/self-storage-ca-san-francisco/202.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ca-san-francisco/202.html",
+   "accessHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 6:00 PM Monday–Friday and 6:00 AM – 5:00 PM Saturday–Sunday. It does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "hours": {
+    "monday": "6:00 AM – 6:00 PM",
+    "tuesday": "6:00 AM – 6:00 PM",
+    "wednesday": "6:00 AM – 6:00 PM",
+    "thursday": "6:00 AM – 6:00 PM",
+    "friday": "6:00 AM – 6:00 PM",
+    "saturday": "6:00 AM – 5:00 PM",
+    "sunday": "6:00 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-controlled storage among its features and publishes “All Rentals Month to Month.” Features listed: Indoor Storage Units, Property Manager Lives On-site.",
+   "feeNotes": "The facility page says all new rentals are subject to a one-time $29 admin fee (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ca-san-francisco/202.html"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Public Storage — 99 S Van Ness Ave",
+   "category": "storage",
+   "area": "S Van Ness Ave at Mission St, near the Market St / Hayes Valley edge of SoMa (94103)",
+   "address": "99 S Van Ness Ave, San Francisco, CA 94103",
+   "phone": "415-523-7829",
+   "website": "https://www.publicstorage.com/self-storage-ca-san-francisco/2037.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ca-san-francisco/2037.html",
+   "accessHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM",
+    "notes": "The facility page publishes access hours of 9:30 AM – 6:00 PM Monday–Friday and 9:30 AM – 5:00 PM Saturday–Sunday. It does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM"
+   },
+   "hours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Features listed: Climate Control Storage, Car Storage, Indoor & Outdoor Storage Units.",
+   "feeNotes": "The facility page says all new rentals are subject to a one-time $29 admin fee (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ca-san-francisco/2037.html"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Public Storage — 300 Treat Ave",
+   "category": "storage",
+   "area": "Treat Ave near 16th St, northeast Mission District (94110)",
+   "address": "300 Treat Ave, San Francisco, CA 94110",
+   "phone": "415-523-7825",
+   "website": "https://www.publicstorage.com/self-storage-ca-san-francisco/2234.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ca-san-francisco/2234.html",
+   "accessHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM",
+    "notes": "The facility page publishes access hours of 9:30 AM – 6:00 PM Monday–Friday and 9:30 AM – 5:00 PM Saturday–Sunday. It does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM"
+   },
+   "hours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-controlled storage among its features and publishes “All Rentals Month to Month.” Features listed: Indoor Storage Units.",
+   "feeNotes": "The facility page says all new rentals are subject to a one-time $29 admin fee (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ca-san-francisco/2234.html"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Public Storage — 190 10th Street",
+   "category": "storage",
+   "area": "10th St near Howard St, western SoMa (94103)",
+   "address": "190 10th Street, San Francisco, CA 94103",
+   "phone": "415-523-7806",
+   "website": "https://www.publicstorage.com/self-storage-ca-san-francisco/393.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ca-san-francisco/393.html",
+   "accessHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM",
+    "notes": "The facility page publishes access hours of 9:30 AM – 6:00 PM Monday–Friday and 9:30 AM – 5:00 PM Saturday–Sunday. It does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM"
+   },
+   "hours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:30 AM – 5:00 PM",
+    "sunday": "9:30 AM – 5:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-controlled storage among its features and publishes “All Rentals Month to Month.” Features listed: Indoor Storage Units, Property Manager Lives On-site.",
+   "feeNotes": "The facility page says all new rentals are subject to a one-time $29 admin fee (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ca-san-francisco/393.html"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Public Storage — 2587 Marin Street",
+   "category": "storage",
+   "area": "Marin St near Cesar Chavez St and US-101, Bayview / Bayshore (94124)",
+   "address": "2587 Marin Street, San Francisco, CA 94124",
+   "phone": "415-523-7823",
+   "website": "https://www.publicstorage.com/self-storage-ca-san-francisco/396.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ca-san-francisco/396.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily. It does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-controlled storage among its features and publishes “All Rentals Month to Month.” Features listed: Car Storage, Indoor & Outdoor Storage Units, Property Manager Lives On-site.",
+   "feeNotes": "The facility page says all new rentals are subject to a one-time $29 admin fee (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ca-san-francisco/396.html"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Public Storage — 2690 Geary Blvd",
+   "category": "storage",
+   "area": "Geary Blvd near Masonic Ave, Laurel Heights / Inner Richmond edge (94118)",
+   "address": "2690 Geary Blvd, San Francisco, CA 94118",
+   "phone": "415-523-7831",
+   "website": "https://www.publicstorage.com/self-storage-ca-san-francisco/439.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ca-san-francisco/439.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily. The page shows a “24/7 Access Available” badge beside its features, but the published access table is 6:00 AM – 10:00 PM daily, so it is not flagged as 24-hour access. Ask the manager what the badge covers."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page does not list climate-controlled storage among its features and publishes “All Rentals Month to Month.” Features listed: Indoor Storage Units, Property Manager Lives On-site.",
+   "feeNotes": "The facility page says all new rentals are subject to a one-time $29 admin fee (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ca-san-francisco/439.html"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Public Storage — 4050 19th Avenue",
+   "category": "storage",
+   "area": "19th Ave (CA-1) near Holloway Ave, by SF State and Stonestown, southwest San Francisco (94132)",
+   "address": "4050 19th Avenue, San Francisco, CA 94132",
+   "phone": "628-333-4238",
+   "website": "https://www.publicstorage.com/self-storage-ca-san-francisco/7082.html",
+   "bookingUrl": "https://www.publicstorage.com/self-storage-ca-san-francisco/7082.html",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "The facility page publishes access hours of 6:00 AM – 10:00 PM daily. It does not show a 24/7 access badge."
+   },
+   "officeHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": true,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The facility page lists climate-control storage among its features and publishes “All Rentals Month to Month.” Features listed: Climate Control Storage, Car Storage, Indoor & Outdoor Storage Units.",
+   "feeNotes": "The facility page says all new rentals are subject to a one-time $29 admin fee (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "Public Storage facility page",
+     "url": "https://www.publicstorage.com/self-storage-ca-san-francisco/7082.html"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Extra Space Storage — 2501 Cesar Chavez St",
+   "category": "storage",
+   "area": "Cesar Chavez St at Kansas St / Potrero Ave, near US-101, between Potrero Hill, the Mission, and Bernal Heights (94124)",
+   "address": "2501 Cesar Chavez St, San Francisco, CA 94124",
+   "phone": "(415) 643-8400",
+   "website": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/500294/",
+   "bookingUrl": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/500294/",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM – 10:00 PM daily. The facility’s 5x10 unit page says “24/7 access available — ask site manager for details”; the main page says extended access hours are standard."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:00 AM – 5:30 PM",
+    "sunday": "Closed",
+    "notes": "Office hours from the facility page (Sunday listed as Closed). Phone shown is the facility number in the page’s company details; the page lists (415) 404-8605 as the current-customer line."
+   },
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": true,
+    "deliveriesAccepted": false,
+    "extendedAccessOnRequest": true
+   },
+   "visitNotes": "The facility page says it offers “flexible month-to-month leasing.” It lists drive-up units and a drive-in building, enclosed vehicle storage, a covered loading bay, elevators, and aisles for trucks up to 12 ft tall. The page has a general paragraph about climate control but no unit we saw was labeled climate-controlled, so that flag is off.",
+   "feeNotes": "The facility page lists a one-time $29 admin charge and a $19.99 one-time lock charge (lock fee may be refundable with an approved lock; not charged for digital-access units), as listed on 2026-11-27.",
+   "sources": [
+    {
+     "label": "Extra Space Storage facility page",
+     "url": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/500294/"
+    },
+    {
+     "label": "Extra Space Storage 5x10 units page for this facility",
+     "url": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/500294/id/5x10-storage-units/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Extra Space Storage — 190 Otis St",
+   "category": "storage",
+   "area": "Otis St near Duboce Ave and Gough St, by the US-101 / Central Freeway ramps at the Mission–Hayes Valley edge (94103)",
+   "address": "190 Otis St, San Francisco, CA 94103",
+   "phone": "(415) 552-5751",
+   "website": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/1000000610/",
+   "bookingUrl": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/1000000610/",
+   "accessHours": {
+    "monday": "8:00 AM – 7:00 PM",
+    "tuesday": "8:00 AM – 7:00 PM",
+    "wednesday": "8:00 AM – 7:00 PM",
+    "thursday": "8:00 AM – 7:00 PM",
+    "friday": "8:00 AM – 7:00 PM",
+    "saturday": "8:00 AM – 7:00 PM",
+    "sunday": "10:00 AM – 4:00 PM",
+    "notes": "Published access hours are 8:00 AM – 7:00 PM Monday–Saturday and 10:00 AM – 4:00 PM Sunday."
+   },
+   "officeHours": {
+    "monday": "8:00 AM – 7:00 PM",
+    "tuesday": "8:00 AM – 7:00 PM",
+    "wednesday": "8:00 AM – 7:00 PM",
+    "thursday": "8:00 AM – 7:00 PM",
+    "friday": "8:00 AM – 7:00 PM",
+    "saturday": "8:00 AM – 7:00 PM",
+    "sunday": "10:00 AM – 4:00 PM",
+    "notes": "Office hours from the facility page match the access hours. Phone shown is the facility number in the page’s company details; the page lists (415) 214-5706 as the current-customer line."
+   },
+   "hours": {
+    "monday": "8:00 AM – 7:00 PM",
+    "tuesday": "8:00 AM – 7:00 PM",
+    "wednesday": "8:00 AM – 7:00 PM",
+    "thursday": "8:00 AM – 7:00 PM",
+    "friday": "8:00 AM – 7:00 PM",
+    "saturday": "8:00 AM – 7:00 PM",
+    "sunday": "10:00 AM – 4:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": false,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "All units are indoor with first-floor, elevator, or lift access per the unit list. The page lists a covered loading bay, elevators, and moving carts. We did not find a climate-control or month-to-month statement on this facility’s page, so those flags are off. The facility’s first-floor-access page lists “Deliveries accepted.”",
+   "feeNotes": "The facility page lists a one-time $29 admin charge and a $19.99 one-time lock charge (lock fee may be refundable with an approved lock; not charged for digital-access units), as listed on 2026-11-27.",
+   "sources": [
+    {
+     "label": "Extra Space Storage facility page",
+     "url": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/1000000610/"
+    },
+    {
+     "label": "Extra Space Storage first-floor access page for this facility",
+     "url": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/1000000610/id/first-floor-access/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Extra Space Storage — 1400 Folsom St",
+   "category": "storage",
+   "area": "Folsom St between 10th and 11th Streets, western SoMa (94103)",
+   "address": "1400 Folsom St, San Francisco, CA 94103",
+   "phone": "(415) 626-6665",
+   "website": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/900093/",
+   "bookingUrl": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/900093/",
+   "accessHours": {
+    "monday": "8:00 AM – 7:00 PM",
+    "tuesday": "8:00 AM – 7:00 PM",
+    "wednesday": "8:00 AM – 7:00 PM",
+    "thursday": "8:00 AM – 7:00 PM",
+    "friday": "8:00 AM – 7:00 PM",
+    "saturday": "8:00 AM – 7:00 PM",
+    "sunday": "10:00 AM – 4:00 PM",
+    "notes": "Published access hours are 8:00 AM – 7:00 PM Monday–Saturday and 10:00 AM – 4:00 PM Sunday."
+   },
+   "officeHours": {
+    "monday": "8:00 AM – 7:00 PM",
+    "tuesday": "8:00 AM – 7:00 PM",
+    "wednesday": "8:00 AM – 7:00 PM",
+    "thursday": "8:00 AM – 7:00 PM",
+    "friday": "8:00 AM – 7:00 PM",
+    "saturday": "8:00 AM – 7:00 PM",
+    "sunday": "10:00 AM – 4:00 PM",
+    "notes": "Office hours from the facility page match the access hours. Phone shown is the facility number in the page’s company details; the page lists (415) 535-5081 as the current-customer line."
+   },
+   "hours": {
+    "monday": "8:00 AM – 7:00 PM",
+    "tuesday": "8:00 AM – 7:00 PM",
+    "wednesday": "8:00 AM – 7:00 PM",
+    "thursday": "8:00 AM – 7:00 PM",
+    "friday": "8:00 AM – 7:00 PM",
+    "saturday": "8:00 AM – 7:00 PM",
+    "sunday": "10:00 AM – 4:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": false,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The page says all units are indoors with first-floor or elevator access, and describes drive-up access in a drive-in building with a covered loading bay. It lists “Deliveries accepted.” We did not find a climate-control or month-to-month statement on this facility’s page, so those flags are off.",
+   "feeNotes": "The facility page lists a one-time $29 admin charge and a $19.99 one-time lock charge (lock fee may be refundable with an approved lock; not charged for digital-access units), as listed on 2026-11-27.",
+   "sources": [
+    {
+     "label": "Extra Space Storage facility page",
+     "url": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/900093/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Extra Space Storage — 1700 Egbert Ave",
+   "category": "storage",
+   "area": "Egbert Ave near Bayshore Blvd and Williams Ave, southern Bayview near the Portola and Visitacion Valley (94124)",
+   "address": "1700 Egbert Ave, San Francisco, CA 94124",
+   "phone": "(415) 467-4600",
+   "website": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/1000000264/",
+   "bookingUrl": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/1000000264/",
+   "accessHours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM",
+    "notes": "Published access hours are 6:00 AM – 10:00 PM daily."
+   },
+   "officeHours": {
+    "monday": "9:30 AM – 6:00 PM",
+    "tuesday": "9:30 AM – 6:00 PM",
+    "wednesday": "9:30 AM – 6:00 PM",
+    "thursday": "9:30 AM – 6:00 PM",
+    "friday": "9:30 AM – 6:00 PM",
+    "saturday": "9:00 AM – 5:30 PM",
+    "sunday": "Closed",
+    "notes": "Office hours from the facility page (Sunday listed as Closed). Phone shown is the facility number in the page’s company details; the page lists (415) 650-6098 as the current-customer line."
+   },
+   "hours": {
+    "monday": "6:00 AM – 10:00 PM",
+    "tuesday": "6:00 AM – 10:00 PM",
+    "wednesday": "6:00 AM – 10:00 PM",
+    "thursday": "6:00 AM – 10:00 PM",
+    "friday": "6:00 AM – 10:00 PM",
+    "saturday": "6:00 AM – 10:00 PM",
+    "sunday": "6:00 AM – 10:00 PM"
+   },
+   "flags": {
+    "open24Hours": false,
+    "climateControl": false,
+    "monthToMonth": false,
+    "deliveriesAccepted": true,
+    "extendedAccessOnRequest": false
+   },
+   "visitNotes": "The page lists units from 5x5 to 10x30 with indoor, drive-up, and first-floor access, drive-up units that fit cars and motorcycles, electronic-gate access, an on-site resident manager, wide drive aisles for moving trucks, and “Deliveries accepted.” We did not find a climate-control or month-to-month statement on this facility’s page, so those flags are off.",
+   "feeNotes": "The facility page lists a one-time $29 admin charge and a $19.99 one-time lock charge (lock fee may be refundable with an approved lock; not charged for digital-access units), as listed on 2026-11-27.",
+   "sources": [
+    {
+     "label": "Extra Space Storage facility page",
+     "url": "https://www.extraspace.com/storage/facilities/us/california/san_francisco/1000000264/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  }
+ ]
+}
